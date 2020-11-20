@@ -1,4 +1,4 @@
-# Baldur's Gate 3 resources (PT-BR)
+# Baldur's Gate 3 Portuguese (BR) translation resource
 Baldur's Gate 3 resources files translated to portuguese (Brazil)
 
 #UPDATE 2020-11-20
