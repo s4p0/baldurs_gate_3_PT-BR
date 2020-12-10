@@ -1,0 +1,1978 @@
+working on [./input\Localization\Portuguese\portuguese.xml]
+EN: [*The goblin seems unsure whether to bow to you or attack.*]
+PT: [* Parecia que o duende hesitou entre atacar e curvar-se .*]
+>>: []
+
+EN: [Zarys attacked us when she learned we had lost the chest. We should have been more careful.]
+PT: [Zarys nos atacou quando descobriu que tφnhamos perdido o peito. Deverφamos ter sido mais cuidadosos.]
+>>: []
+
+EN: [AstarionÆs vampiric hunger has been temporarily satisfied. +1 to all attack rolls, saving throws, and skill checks until next rest.]
+PT: [A fome vampφrica de Astarion tem sido temporariamente calma. +1 para todas as corridas de ataque, corridas de salvamento e testes de habilidade atΘ a pr≤xima pausa.]
+>>: []
+
+EN: [Each strike fills the target with a chilling dread that prevents it from regaining hit points. Undead creatures also get disadvantage on attack rolls.]
+PT: [Cada golpe inunda o alvo com um terror arrepiante que o impede de recuperar pontos de impacto. Os mortos-vivos tambΘm tΩm uma desvantagem em atacar corridas.]
+>>: []
+
+EN: [Using our parasite, we forced the gnoll leader to attack the men in the cave. It's sure to be a bloodbath.]
+PT: [Usamos nosso parasita para forτar o lφder do gnoll a atacar os homens das cavernas. Vai ser um verdadeiro derramamento de sangue.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with simple weapons.]
+PT: [Adicione seu b⌠nus de competiτπo para atacar corridas com armas simples.]
+>>: []
+
+EN: [The goblins attacked us.]
+PT: [Os duendes nos atacaram.]
+>>: []
+
+EN: [A bonus to your ranged attack rolls. When trying to hit a target, your attack roll must match the enemy's Armour Class. Roll a d20, add your Proficiency Bonus and your attack roll's Ability Modifier, then compare the result to your target's Armour Class.]
+PT: [Um b⌠nus para suas corridas de ataque. Ao tentar acertar um alvo, a corrida de ataque deve coincidir com o AC (classe de armadura) do inimigo. Jogue um d20, adicione o b⌠nus de competiτπo e apresente o modificador de recursos da corrida de ataque e, em seguida, compare o resultado com o CA do alvo.]
+>>: []
+
+EN: [Multiattack (Ranged)]
+PT: [Ataque m·ltiplo (remoto)]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with maces.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque de maτa.]
+>>: []
+
+EN: [Not him, no. A gang of thugs attacked me, angry about a ruling that I'd handed down as magistrate.]
+PT: [Ele nπo fez isso. Era um bando de bandidos. Eles ficaram furiosos com uma das minhas opini⌡es como magistrado.]
+>>: []
+
+EN: [Advantage when attacking Bleeding targets.]
+PT: [Vantagem em atacar alvos que estπo sangrando atΘ a morte.]
+>>: []
+
+EN: [<i>Seize her mind like the horns of a wild bull, steering her to attack the cave-in.</i>]
+PT: [<i>Assing sua mente como se fossem os chifres de um touro corajoso e direcionando-a para atacar o colapso, </i>]
+>>: []
+
+EN: [Make a melee weapon attack that deals [1].]
+PT: [VocΩ realiza um ataque de arma corpo a corpo que lida com [1].]
+>>: []
+
+EN: [A spectral frost covers you and your gear. When a creature hits you with a melee attack, it takes [1].]
+PT: [Uma geada espectral cobre vocΩ e todo o equipamento que vocΩ estß usando. Se uma criatura te atinge com um ataque corpo a corpo, ela sofre [1].]
+>>: []
+
+EN: [Distance depends on your Strength modifier. Jumping doesn't trigger opportunity attacks.]
+PT: [A distΓncia que vocΩ pode saltar depende do seu modificador force. Pular nπo causa ataques de oportunidade.]
+>>: []
+
+EN: [Minthara and the goblins have left to attack the grove.]
+PT: [Minthara e os duendes partiram para atacar o bosque.]
+>>: []
+
+EN: [Creatures within the cloud are Heavily Obscured and Blinded. Creatures cannot make ranged attacks into or out of the darkness.]
+PT: [As criaturas dentro da nuvem sπo muito escuras e cegas. Criaturas nπo podem fazer ataques de ou para a escuridπo.]
+>>: []
+
+EN: [Enemies have disadvantage on ranged attacks against you. They have advantage on melee attacks against you.]
+PT: [Inimigos tΩm uma desvantagem ao atacß-lo α distΓncia e vantagem ao atacß-lo corpo a corpo.]
+>>: []
+
+EN: [A bard's Inspiration Points can be spent to improve an attack roll, saving throw, or ability check.]
+PT: [Os pontos de inspiraτπo de um bardo podem ser gastos para atualizar um giro de ataque, salvar spin ou teste de recurso.]
+>>: []
+
+EN: [Creature's speed is increased by [1], and its next attack deals an additional [2]. This condition ends upon landing a successful attack.]
+PT: [A velocidade da criatura aumenta em [1], e seu pr≤ximo ataque lida com um adicional [2]. Este status termina quando vocΩ bate com um ataque.]
+>>: []
+
+EN: [How were you turned? Did he attack you?]
+PT: [Como foi sua transformaτπo? Ele te atacou?]
+>>: []
+
+EN: [He attacked Master Halsin and I in the woods, leading a pack of goblins.]
+PT: [Ele atacou o Mestre Halsin e eu na floresta. Ele estava liderando um punhado de duendes.]
+>>: []
+
+EN: [Shrink to half-size for 10 turns or 1 minute.<br>While shrunk, character has disadvantage on Strength checks and saving throws, and their weapon attacks deal 1d4 less damage.<br><br><i>Everything appears miniscule when viewed through this translucent draught.</i>]
+PT: [Diminua para metade do seu tamanho por 10 turnos ou 1 minuto. <br>Um personagem encolhido tem uma desvantagem nos testes da Forτa e corridas de salvamento, e seus ataques de armas causar 1d4 menos dano. <br><br><i>Todo parece min·sculo quando vocΩ olha para ele atravΘs desta poτπo transl·cida, </i>]
+>>: []
+
+EN: [Your body becomes blurred. Attackers have disadvantage on attack rolls against you.]
+PT: [Seu corpo fica embaτado. Atacantes tΩm uma desvantagem em atacar corridas contra vocΩ.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with hand crossbows.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de besta.]
+>>: []
+
+EN: [Suffers disadvantage on attack rolls and ability checks.]
+PT: [Ele sofre uma desvantagem em corridas de ataque e testes de recursos.]
+>>: []
+
+EN: [*I attacked.*]
+PT: [*AtaquΘ.*]
+>>: []
+
+EN: [Creature gains advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.]
+PT: [A criatura ganha uma vantagem em todas as corridas de ataque de armas corpo a corpo que executa nesta curva, mas o ataque corre contra ela terß uma vantagem atΘ o inφcio de sua pr≤xima curva.]
+>>: []
+
+EN: [Cripplingly feverish. Disadvantage on Strength checks, Strength saving throws, and attack rolls.]
+PT: [Com uma febre incapacitante. Desvantagem nos testes da Forτa, corridas de resgate da forτa e corridas de ataque.]
+>>: []
+
+EN: [A prone creature is knocked down and must spend half their movement to stand back up. Enemies have advantage when attacking a prone creature.]
+PT: [Uma criatura que foi derrubada deve gastar metade de seu movimento para se reerguer. Inimigos tΩm vantagem em atacß-la.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with spears.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo a rodadas de ataque de lanτa.]
+>>: []
+
+EN: [Bless up to 3 creatures. They receive a d4 bonus to attack rolls and saving throws.]
+PT: [Abenτoe atΘ 3 criaturas. Receba um b⌠nus de 1d4 para atacar corridas e salvar rodadas.]
+>>: []
+
+EN: [Become Invisible until you attack or cast a spell.]
+PT: [Torna-se invisφvel atΘ vocΩ atacar ou lanτar um feitiτo.]
+>>: []
+
+EN: [Gomwick,<br><br>Be doubly careful on the way back to Baldur's Gate. I've received more reports of attacks on travellers throughout the region. I can't have my best messenger winding up face down in a ditch somewhere.<br><br>Watch yourself - better late than never.<br>Postmaster General Danzo]
+PT: [<br><br> Eles sπo muito cuidadosos quando vocΩ volta de Baldur Gate. Fui informado de que houve mais ataques a viajantes em diferentes partes da regiπo. Nπo posso pagar meu melhor mensageiro para acabar morto em uma vala. <br><br> seja muito cuidadoso. O importante Θ chegar lß. <br>Danzo, Chefe dos Correios]
+>>: []
+
+EN: [You can make an attack of opportunity whenever a creature enters your reach.]
+PT: [VocΩ pode realizar um ataque de oportunidade desde que uma criatura entre ao seu alcance.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with slings.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo a rodadas de ataque de estilingue.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with sickles.]
+PT: [Adicione seu b⌠nus de competiτπo a rodadas de ataque focinho.]
+>>: []
+
+EN: [They're not attacking. Must think I'm one of them.]
+PT: [Eles nπo me atacam. Devem pensar que sou um deles.]
+>>: []
+
+EN: [Second, they're the reason I'm like this in the first place. It was a group of Gur that attacked me that night in Baldur's Gate.]
+PT: [Mas alΘm disso, por causa deles, eu sou quem eu sou. Naquela noite, em Baldur Gate, fui atacado por um grupo de gurs.]
+>>: []
+
+EN: [The target can't be Charmed, Frightened, or possessed by them, and when these creatures attack it, they do so with disadvantage. Provided by The Ever-Seeing Eye.]
+PT: [Eles nπo podem enfeitiτar, assustar ou possuir o alvo, e quando essas criaturas o atacarem, eles o farπo em desvantagem. ╔ fornecido pelo olhar sempre vigilante.]
+>>: []
+
+EN: [Gathering its bearings. Disadvantage on attack rolls, lowered Armour Class and Hit Points, and cannot take reactions.]
+PT: [Recomposiτπo. Desvantagem nas corridas de ataque, reduτπo da classe de armadura e pontos de impacto e nπo pode desencadear reaτ⌡es.]
+>>: []
+
+EN: [Used for the AI to attack a second time, or do various moves throughout the game. Unavailable to the player.]
+PT: [Usado pela IA para atacar uma segunda vez, ou realizar vßrios movimentos durante o jogo. Nπo estß disponφvel para o jogador.]
+>>: []
+
+EN: [A spectral frost covers you. Gain 5 temporary hit points and deal 5 Cold damage to any creature that hits you with a melee attack.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [VocΩ estß coberto de uma geada espectral. Ganhe 5 pontos de ataque temporßrios, causando 5 danos frios a qualquer criatura que te atinja com um ataque corpo a corpo. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Coward... attacked...  interrupted my work... ]
+PT: [Covarde... Atacado... interrompeu meu trabalho...]
+>>: []
+
+EN: [<i>Change your mind and attack her.</i>]
+PT: [<i> mudar de opiniπo e atacß-la, </i>]
+>>: []
+
+EN: [<i>Change your mind and attack.</i>]
+PT: [<i>Se sua mente e ataque, </i>]
+>>: []
+
+EN: [From there, his forces could access both the temple of Sel√ne and Moonrise Towers in secret - but Ketheric was defeated before he could launch an attack from the Underdark.]
+PT: [A partir daφ, suas forτas poderiam acessar o templo de Selene e as Torres de Alzaluna sem serem vistas. No entanto, Ketheric foi derrotado antes que ele pudesse lanτar sua ofensiva a partir do Underdark.]
+>>: []
+
+EN: [The same thing that happens to anyone who attacks me.]
+PT: [A mesma coisa que acontece com todos que me atacam.]
+>>: []
+
+EN: [And before the attack - were you 'sheltering', or just plain cowering?]
+PT: [E, antes do ataque... vocΩ estava apenas "protegendo" ou apertando?]
+>>: []
+
+EN: [Touch a creature to turn it Invisible.<br><br>The spell ends early if the creature attacks or casts a spell.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [VocΩ toca uma criatura para tornß-la invisφvel. <br><br>O feitiτo termina mais cedo se a criatura atacar ou lanτar um feitiτo, <br> <br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Illusionary spiders run up and down the creature's body, imposing a disadvantage on ability checks and attack rolls.]
+PT: [Aranhas ilus≤rias vagam pelo corpo da criatura e causam uma desvantagem em testes de recursos e corridas de ataque.]
+>>: []
+
+EN: [Assail a creature with the chill of the grave. It takes 1d8 Necrotic damage and cannot regain hit points. Undead creatures also get disadvantage on attack rolls. <br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [VocΩ bate em uma criatura no frio do t·mulo. Tome 1d8 dano necrosado e nπo pode recuperar pontos de impacto. Criaturas mortas vivas tambΘm ganham uma desvantagem nas corridas de ataque. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [There have been several attacks by different monsters. The druids blame us 'outsiders' for drawing them here. Nobody's welcome anymore.]
+PT: [Houve vßrios ataques de monstros. Os druidas nos culpam, os forasteiros, por atraφ-los aqui. Nos tornamos convidados indesejados.]
+>>: []
+
+EN: [Can attack a second creature close to its first target.]
+PT: [Pode atacar uma segunda criatura perto do primeiro alvo.]
+>>: []
+
+EN: [When you attack your quarry, you deal an additional [1].]
+PT: [Quando vocΩ ataca sua presa vocΩ causa [1] adicional.]
+>>: []
+
+EN: [This creature's target cannot make an attack of opportunity when the creature moves away.]
+PT: [O alvo da criatura nπo pode realizar um ataque de oportunidade quando a criatura parte.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with hand crossbows.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de besta.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with darts.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque de dardos.]
+>>: []
+
+EN: [Can use spellcasting ability instead of Strength for melee attack and damage rolls (your chance to hit the enemy + how much damage you'll do) with equipped weapon. Weapon becomes magical. ]
+PT: [VocΩ pode usar sua habilidade mßgica em vez da Forτa para ataques corpo a corpo e giros de dano (sua chance de acertar o inimigo + quanto dano vocΩ vai lidar) com a arma equipada. A arma se torna mßgica.]
+>>: []
+
+EN: [Once per turn, your weapon attack deals an extra 1d8 damage if the target is below its hit point maximum.]
+PT: [Uma vez por curva, seu ataque de arma causar dano adicional de 1d8 se o alvo estiver abaixo de seus pontos mßximos de ataque.]
+>>: []
+
+EN: [*The owlbear didn't attack, but I saw every sinew of its body tense with violent potential.*]
+PT: [*O urso coruja nπo atacou, mas eu vi cada um de seus tend⌡es apertar. Eu estava disposto a recorrer α violΩncia.]
+>>: []
+
+EN: [Thank the gods that's over. Wish you'd been with us when the beasts attacked on the road.<br>]
+PT: [Ainda bem que estß tudo acabado agora. Queria que estivesse conosco quando aquelas bestas nos atacaram pelo caminho. <br>]
+>>: []
+
+EN: [We took the sacred idol and disrupted the ritual - but now the druids are attacking the tieflings.]
+PT: [Pegamos um φdolo sagrado e interrompemos o ritual, mas agora os druidas estπo atacando os tieflings.]
+>>: []
+
+EN: [I didn't ask for... you... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [NinguΘm lhe pediu para... VocΩ... VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [Armour Class increased by 2, and reflects the first projectile flying towards it back at the attacker, after which the mucous is removed.]
+PT: [Ele reflete projΘteis contra o atacante e recebe um b⌠nus de 2 AC. Removido ap≤s o impacto.]
+>>: []
+
+EN: [Undead creatures that attack the wearer receive [1]. Beasts that attack the wearer deal an additional [1].]
+PT: [Os mortos-vivos que atacam o porta-avi⌡es recebem [1]. Bestas atacando o porta-avi⌡es causam danos adicionais de [1].]
+>>: []
+
+EN: [Through here? You must be funnin'. Lads - attack!]
+PT: [Por aqui? VocΩ Θ legal. Pessoal, ataquem!]
+>>: []
+
+EN: [A sleeping creature cannot move or cast spells. Moreover, the creature automatically fails Strength and Dexterity saving throws, attack rolls against it have advantage, and any attack that hits the creature is a critical hit if the attacker is within [1] of the creature. Taking damage can break this status.]
+PT: [Uma criatura adormecida nπo pode se mover ou lanτar feitiτos. Ele tambΘm falha automaticamente em suas corridas de resgate forτa e habilidade, as corridas de ataque contra ele tΩm uma vantagem, e qualquer ataque que o atinja Θ um golpe crφtico se o atacante estiver a menos de [1] de distΓncia dele. Sofrer danos pode acordß-la.]
+>>: []
+
+EN: [Main Hand Attack (Multiattack)]
+PT: [Ataque de mπo habilidoso (ataque m·ltiplo)]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with warhammers.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de martelo de guerra.]
+>>: []
+
+EN: [Any undead creature who attacks the wearer of this armour receives 1d6 radiant damage. Any beast who attacks the wearer will do an extra 1d6 radiant damage to the wearer.<br><br><i>Embroidered with the symbol of the rising sun, this tunic radiates a faint divine power.</i>]
+PT: [Qualquer criatura nπo assegurada atacando o portador desta armadura terß 1d6 de danos radiante. Qualquer besta que atacar o porta-avi⌡es causarß danos radiante de 1d6. <br><br><i>Esta veste com o sφmbolo do sol nascente irradia um leve poder divino,</i>]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with rapiers.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque com estacas.]
+>>: []
+
+EN: [<i>Enough is enough - attack him.</i>]
+PT: [<i> vocΩ jß teve o suficiente: atacß-lo, </i>]
+>>: []
+
+EN: [Crawling with tiny spiders. Takes [1] and [1] each turn. When hit with a melee attack or upon death, the infestation spreads. Can be removed with fire or acid. Doesn't deal damage to ettercaps or spiders.]
+PT: [Para transbordar de pequenas aranhas. Ele sofre [1] e [1] cada volta. Quando ele Θ atingido por um ataque corpo a corpo ou quando ele morre, a infestaτπo se espalha. Pode ser removido com fogo ou ßcido. Nπo hß danos a ettercaps ou aranhas.]
+>>: []
+
+EN: [Why did these duergar attack?]
+PT: [Por que os adormecidos atacaram?]
+>>: []
+
+EN: [Call forth a beam of light. Deals 4d6 Radiant damage and grants advantage on the next attack against the target.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [VocΩ lanτa um raio de luz que causa 4d6 de dano radiante e concede uma vantagem no pr≤ximo ataque contra o alvo. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Wearing Heavy Armour will not impose disadvantage on your attacks or prevent the casting of spells.]
+PT: [Usar armadura pesada nπo causa nenhuma desvantagem em seus ataques ou impede que vocΩ jogue feitiτos.]
+>>: []
+
+EN: [Teela - attack!]
+PT: [Teela, ataque!]
+>>: []
+
+EN: [Create 3 illusory duplicates of yourself that distract attackers. Each duplicate increases your Armour Class by 3.]
+PT: [Crie 3 duplicatas ilus≤rias de vocΩ que distraem os atacantes. Cada duplicata aumenta seu CA em 3.]
+>>: []
+
+EN: [Nearby non-hostile creatures deal an additional [1] to weapon attacks.]
+PT: [Criaturas nπo hostis lidam com um adicional [1] em ataques de armas.]
+>>: []
+
+EN: [Chance to inflict a d4 penalty to attack rolls and saving throws on target. If the attacker still has 25% or more hit points, they take [1] themselves.]
+PT: [Chance de dar 1d4 de penalidade para o ataque do alvo corre e salvar corridas. Se o atacante ainda tem 25% ou mais dos pontos de acerto restantes, ele tambΘm sofre [1].]
+>>: []
+
+EN: [We were attacked. Cackling, furry things on two legs.]
+PT: [Eles nos atacaram. Criaturas barulhentos que estavam em duas pernas.]
+>>: []
+
+EN: [<i>Tell her about your death - how you'd been attacked by a Gur tribe and 'saved' by Cazador.</i>]
+PT: [<i>Contando-lhe de sua morte, como uma tribo Gur atacou vocΩ, e Hunter tinha "salvo" vocΩ, </i>]
+>>: []
+
+EN: [Gain 10 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes [1].]
+PT: [VocΩ tem 10 pontos de impacto temporßrios atΘ o efeito passar. Se o ataque corpo a corpo de uma criatura atingir vocΩ enquanto retΘm os pontos de ataque, ele sofrerß [1].]
+>>: []
+
+EN: [A peaceful undead. Interesting. Why aren't you attacking me?]
+PT: [Um homem morto vivo pacφfico. Interessante. Por que nπo me atacou?]
+>>: []
+
+EN: ['Goblins shall not strike you down' is etched into this dagger's handle. Grants disadvantage to goblin attackers. When goblin assailants realised they couldn't strike down this dagger's original owner, they threw him into the worg pens.]
+PT: [A alτa deste punhal estß gravada com a mensagem "Os duendes nπo acabarπo com vocΩ". Imp⌡e uma desvantagem aos atacantes dos duendes. Quando os assaltantes perceberam que nπo podiam acertar o dono original desta adaga, jogaram-no contra os huargos.]
+>>: []
+
+EN: [Target two creatures standing close to each other, attacking them in quick succession.]
+PT: [Aponte para duas criaturas pr≤ximas uma da outra, e ataque-as em rßpida sucessπo.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with quarterstaffs.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque de cana.]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Wisdom.]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. TambΘm tem uma desvantagem nos testes de recursos baseados em Sabedoria.]
+>>: []
+
+EN: [Charge forward, attacking all hostile creatures in the way. Deals [1] and potentially knocks characters Prone.]
+PT: [Carga]
+>>: []
+
+EN: [Can't move. Restrained by an attack of opportunity from a Sentinel.]
+PT: [Nπo Θ possφvel se mover. Preso pelo ataque de oportunidade de um sentinela.]
+>>: []
+
+EN: [Roar at nearby enemies to goad them into attacking you.]
+PT: [VocΩ joga um rugido ameaτador em inimigos pr≤ximos para provocß-los e atacß-lo.]
+>>: []
+
+EN: [Disadvantage on all attack rolls on targets other than the spellcaster.]
+PT: [Desvantagem em todos os ataques corre contra alvos que nπo o lanτador ortomfeito.]
+>>: []
+
+EN: [Target up to 4 creatures. They receive a d4 penalty to attack rolls and saving throws.]
+PT: [Alvo de atΘ 4 criaturas. Receba uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [We refused to help Glut destroy Sovereign Spaw, and it attacked us.]
+PT: [Decidimos nπo ajudar Glut a destruir o soberano Spaw, e ele nos atacou.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with light crossbows.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo para atacar corridas com bestas leves.]
+>>: []
+
+EN: [Locked doors and containers can be opened with keys. Some can also be lockpicked with Thieves' Tools or destroyed with spells, missiles, or manual attacks.]
+PT: [Portas e recipientes podem ser abertos com chaves. Em alguns casos, eles tambΘm podem ser forτados.]
+>>: []
+
+EN: [The knight said Vlaakith ordered the attack. Could it be true?]
+PT: [O cavalheiro disse que Vlaakith ordenou o ataque. Seria verdade?]
+>>: []
+
+EN: [You have a history of battling spellcasters. Gain proficiency with Arcana and the True Strike cantrip, which gives you advantage on attack rolls against a creature. Wisdom is your spellcasting ability for this spell. ]
+PT: [VocΩ jß lutou contra lanτadores de feitiτos no passado. VocΩ tem competiτπo no Conhecimento Arcane e um truque de mßgico. Sabedoria Θ sua aptidπo mßgica para este feitiτo.]
+>>: []
+
+EN: [Chance to encase its target in a sinister Faerie Fire, granting advantage to attack rolls against the target.]
+PT: [Chance de cercar um alvo em um fogo feroz sinistro, dando ao alvo uma vantagem em corridas de ataque.]
+>>: []
+
+EN: [Melee attacks from behind a target have advantage.]
+PT: [Ataques corpo a corpo por trßs do alvo tΩm uma vantagem.]
+>>: []
+
+EN: [Astarion is a vampire! We woke up last night and saw him bent over one of us - drinking their blood. We had no choice but to attack him.]
+PT: [Astarion Θ um vampiro! Acordamos ontem α noite e o vimos encostado em um de n≤s, sugando seu sangue. Nπo tivemos escolha a nπo ser atacß-lo.]
+>>: []
+
+EN: [You're even worse at lying than you are at sneak attacks. You and I are done.]
+PT: [VocΩ Θ pior em mentiras do que caτa furtiva. VocΩ e eu terminamos.]
+>>: []
+
+EN: [Last question, and you'll be quite free. Did the attackers rally to 'the Absolute' when they fell upon the gates?]
+PT: [Uma ·ltima pergunta e nπo vou mais incomodß-lo: os atacantes se jogaram na porta para o grito de "Para o Absoluto!"]
+>>: []
+
+EN: [Make a non-lethal attack against a creature. If the attack would kill it, it falls Unconscious instead.]
+PT: [Realiza um ataque nπo letal a uma criatura. Se o ataque a matou, ela fica inconsciente.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with clubs.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque do clube.]
+>>: []
+
+EN: [Target up to 4 creatures. They receive a d4 penalty to attack rolls and saving throws.]
+PT: [Alvo de atΘ 4 criaturas. Receba uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [The next time you take damage, you use your reaction to surround your attacker in hellish flames that deal [1].]
+PT: [Em reaτπo ap≤s ser danificado, vocΩ cerca seu agressor com chamas infernais que lidam [1].]
+>>: []
+
+EN: [A beam of enervating energy springs from your fingers. The target deals half damage with weapon attacks using Strength.]
+PT: [Um feixe de energia debilitante emerge de seus dedos. O alvo tem metade dos danos com ataques de armas que dependem da Forτa.]
+>>: []
+
+EN: [<i>Take a deep breath - and attack.</i>]
+PT: [<i>Provas de suspiro... e atacar</i>]
+>>: []
+
+EN: [What's all that racket? Are we under attack?]
+PT: [Por que tanto alvoroτo? Estπo nos atacando?]
+>>: []
+
+EN: [Halsin has left to drive off the goblins attacking the Grove. If we want his help removing the parasite, we'll need to meet him there.]
+PT: [Halsin saiu para assustar os duendes que estπo atacando o bosque. Se quisermos que ele nos ajude, teremos que encontrß-lo lß.]
+>>: []
+
+EN: [You'd dare attack one of us? You <i>will </i>pay for this crime.]
+PT: [Como ousa atacar um dos nossos? VocΩ vai pagar por este crime.]
+>>: []
+
+EN: [We're refugees from Elturel - we took shelter here after goblins and gnolls attacked us on the road.]
+PT: [Somos refugiados de Elturel. Pedimos asilo aqui depois que os duendes e gnolls nos atacaram pelo caminho.]
+>>: []
+
+EN: [Where were you during the attack?]
+PT: [Onde vocΩ estava durante o ataque?]
+>>: []
+
+EN: [*I quickly moved to the side for a flanking attack.*]
+PT: [Eu andei de lado rapidamente e a ataquei no flanco.]
+>>: []
+
+EN: [While in sunlight, this creature has disadvantage on attack rolls and Perception checks that rely on sight.]
+PT: [Embora exposta α luz solar, esta criatura tem uma desvantagem nos testes de ataque dependentes da visπo e testes de Sabedoria (Percepτπo).]
+>>: []
+
+EN: [<i>Silently hold his stare and discreetly prepare to attack.</i>]
+PT: [<i>Apeso olho nele calmamente e prepare-se discretamente para atacar</i>]
+>>: []
+
+EN: [Dammit, was inventory today? I'm sorry. Nerves are shot after the attack.]
+PT: [Diabos, ele toca no inventßrio hoje? Desculpe, meus nervos estπo cheios de pele do ataque.]
+>>: []
+
+EN: [*There was no recourse - I attacked.*]
+PT: [*Nπo havia alternativa: eu ataquei.*]
+>>: []
+
+EN: [In the name of the Blade, attack!]
+PT: [Em nome do Filo! No ataque!]
+>>: []
+
+EN: [*Shaking with the goddess' fury, the spider shrieks, then attacks.*]
+PT: [Estremecendo com a ira da deusa, a aranha grita e depois ataca.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with daggers.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque da adaga.]
+>>: []
+
+EN: [Make a ranged attack with your offhand weapon, dealing [1].]
+PT: [VocΩ faz um ataque de alcance com sua arma secundßria e lida [1].]
+>>: []
+
+EN: [<i>Urge her to attack them.</i>]
+PT: [<i>incitando-a a atacß-los, </i>]
+>>: []
+
+EN: [Are you sure you want to attack?]
+PT: [Tem certeza que quer atacar?]
+>>: []
+
+EN: [Attackers have disadvantage on attack rolls against this creature, unless they do not rely on sight or can see through illusions.]
+PT: [Os atacantes tΩm uma desvantagem em atacar corridas contra esta criatura, a menos que eles nπo dependem da visπo ou podem ver atravΘs de ilus⌡es.]
+>>: []
+
+EN: [Player and allies within [1] of illusory duplicate gain advantage on attack rolls against this creature.]
+PT: [Jogadores e aliados menos de [1] de ilus≤ria duplicada ganham uma vantagem em atacar rodadas contra esta criatura.]
+>>: []
+
+EN: [Won't be long before they're telling new tales. Mind flayers, flying ships, dragon attacks - the legend grows!]
+PT: [Em breve contarπo novas hist≤rias. Vamos lß, chicoteando, voando navios e drag⌡es! A lenda estß crescendo!]
+>>: []
+
+EN: [Those goblins - have there been many attacks like that?]
+PT: [Aqueles duendes... eles atacaram mais vezes?]
+>>: []
+
+EN: [It might be best to attack them while we still have the advantage of surprise.]
+PT: [Seria melhor atacar enquanto ainda mantivermos a vantagem do elemento surpresa.]
+>>: []
+
+EN: [Your attacks deal an extra 1d4 Poison Damage.]
+PT: [Seus ataques causarπo um dano adicional de veneno de 1d4.]
+>>: []
+
+EN: [Why did this clan attack?]
+PT: [Por que esse clπ te atacou?]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with shortswords.]
+PT: [Adicione seu b⌠nus de competiτπo a corridas curtas de ataque de espada.]
+>>: []
+
+EN: [Venomous Bite (Multiattack)]
+PT: [Mordida de ataque (ataque m·ltiplo)]
+>>: []
+
+EN: [If the wielder is attacked while not wearing armour, they receive a d4 bonus to saving throws.]
+PT: [Se o usußrio sofrer um ataque enquanto estiver sem armadura, receba um b⌠nus de 1d4 para o Save Spins.]
+>>: []
+
+EN: [We released Lae'zel from her cage, and the tiefling attacked us.]
+PT: [Libertamos Lae'zel de sua jaula, e os tieflings nos atacaram.]
+>>: []
+
+EN: [We found the remains of a caravan. A note on a corpse mentioned a valuable chest and someone called 'NF'. Perhaps someone survived this attack.]
+PT: [Encontramos os restos de uma caravana. Uma nota em um cadßver mencionou um ba· valioso e alguΘm chamado ND. Talvez alguΘm tenha sobrevivido ao ataque.]
+>>: []
+
+EN: [Coward... attacked...  interrupted my work... ]
+PT: [Covarde... Atacado... interrompeu meu trabalho...]
+>>: []
+
+EN: [We're refugees from Elturel - we took shelter here after gnolls and goblins attacked us on the road.]
+PT: [Somos refugiados de Elturel. Pedimos asilo aqui depois que os gnolls e duendes nos atacaram pelo caminho.]
+>>: []
+
+EN: [No one's attacking me, eh? This mask is certainly doing the trick. ]
+PT: [NinguΘm estß me atacando? Parece que esta mßscara estß funcionando melhor do que o esperado.]
+>>: []
+
+EN: [Gain resistance to Bludgeoning, Piercing, and Slashing damage from weapon attacks.]
+PT: [Ganhe resistΩncia contra danos contundentes, perfurantes e tesouras causados por ataques de armas.]
+>>: []
+
+EN: [<i>Give Wyll a nod and prepare to attack.</i>]
+PT: [<i>Reear na direτπo de Wyll e prepare-se para atacar, </i>]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Constitution]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. TambΘm tem uma desvantagem nos testes de recursos baseados na Constituiτπo.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with martial weapons.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de armas marciais.]
+>>: []
+
+EN: [You're even worse at lying than you are at sneak attacks. You and I are done.]
+PT: [VocΩ Θ pior em mentiras do que caτa furtiva. VocΩ e eu terminamos.]
+>>: []
+
+EN: [Holding [IE_DestructionToggle] allows you to destroy mundane items or attack non-hostile characters.]
+PT: [Ao segurar [IE_DestructionToggle], vocΩ pode destruir objetos mundinhos ou atacar caracteres nπo violentos.]
+>>: []
+
+EN: [If it's to be battle, sooner is better than later. We need to ready ourselves and goad this drow into attacking.]
+PT: [Se tivermos que lutar, faτa o mais rßpido possφvel. Devemos nos preparar e provocar esse sono em ataque.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with handaxes.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de machado de mπo.]
+>>: []
+
+EN: [Next attack against creature has disadvantage.]
+PT: [O pr≤ximo ataque a uma criatura tem uma desvantagem.]
+>>: []
+
+EN: [A Blessed creature receives a d4 bonus to attack rolls and saving throws.]
+PT: [Uma criatura abenτoada recebe um b⌠nus de 1d4 para atacar corridas e salvar rodadas.]
+>>: []
+
+EN: [Target two creatures standing close to each other. Deal [1] to the first creature and open up the second for a follow-up attack.]
+PT: [VocΩ tem como alvo duas criaturas pr≤ximas uma da outra. VocΩ inflige [1] o primeiro e vocΩ pode atacar o segundo.]
+>>: []
+
+EN: [When do you think the goblins will attack?]
+PT: [Quando acha que os duendes atacarπo?]
+>>: []
+
+EN: [We attacked Sovereign Spaw and the other myconids.]
+PT: [Atacamos o soberano Spaw e os outros miconids.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with quarterstaffs.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de cana.]
+>>: []
+
+EN: [The duergar attacked you in those visions - why?]
+PT: [Os adormecidos te atacaram nessas vis⌡es. Porque?]
+>>: []
+
+EN: [Has a 1d4 bonus to attack rolls and saving throws.]
+PT: [Ele tem um b⌠nus de 1d4 para ataques e corridas de salvamento.]
+>>: []
+
+EN: [When you attack with two weapons, you can add your ability modifier to the damage of the offhand attack.]
+PT: [Ao lutar com duas armas, vocΩ pode adicionar seu modificador por caracterφstica ao dano do ataque de arma secundßrio.]
+>>: []
+
+EN: [Disadvantage on the next attack roll.]
+PT: [Desvantagem na pr≤xima corrida de ataque.]
+>>: []
+
+EN: [Creatures within the cloud are Heavily Obscured and Blinded. Creatures cannot make ranged attacks into or out of the darkness.]
+PT: [As criaturas dentro da nuvem sπo muito escuras e cegas. Criaturas nπo podem fazer ataques de ou para a escuridπo.]
+>>: []
+
+EN: [Find me when you're ready to give it a try. Until then, I've business amongst the brutes who attacked your home.]
+PT: [Venha me ver quando vocΩ for encorajado a fazΩ-lo. AtΘ lß, tenho suposiτ⌡es para lidar com as bestas que atacaram sua casa.]
+>>: []
+
+EN: [Your attack summons thorny vines, dealing [1] and possibly Entangling your target.]
+PT: [Seu ataque convoca videiras com espinhos que infligem [1] e podem enroscar o alvo.]
+>>: []
+
+EN: [Why did the dragon riders attack the ship?]
+PT: [Por que os cavaleiros atacaram a nave?]
+>>: []
+
+EN: [Follow up on your horde breaker with a second attack. Deal [1].]
+PT: [Siga seu Horda Destroyer com um segundo ataque. VocΩ inflige [1].]
+>>: []
+
+EN: [A spectral frost covers you. Gain 10 temporary hit points and deal [1] to any creature that hits you with a melee attack.]
+PT: [VocΩ estß coberto de uma geada espectral. Ganhe 10 pontos de acerto temporßrios e negocie [1] a qualquer criatura que te atinja com um ataque corpo a corpo.]
+>>: []
+
+EN: [Or more difficult - I can only restrain my bear form so much. I won't be able to help but attack goblins.]
+PT: [Ou muito mais difφcil. Nπo posso segurar o urso para sempre. Minha ·nica contribuiτπo possφvel Θ atacar os duendes.]
+>>: []
+
+EN: [Hasted creatures have a +2 bonus to Armour Class, advantage on Dexterity saving throws, and their speed is doubled. They also have an additional action to make a weapon attack or use and object.]
+PT: [As criaturas tΩm um b⌠nus de +2 para sua classe de armadura, vantagem nas rodadas de salvaτπo de Skill, e sua velocidade dobra. Eles tambΘm tΩm aτπo adicional para realizar um ataque de arma ou usar um item.]
+>>: []
+
+EN: [Like crank you do. Lads - attack!]
+PT: [E uma buzina. Pessoal, ataquem!]
+>>: []
+
+EN: [Target up to 3 creatures. They receive a d4 penalty to attack rolls and saving throws.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [Alvo de atΘ 3 criaturas. Receba uma penalidade de 1d4 para corridas de ataque e corridas de salvamento. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Wearing Medium Armour will not impose disadvantage on your attacks or prevent the casting of spells.]
+PT: [Usar armadura mΘdia nπo causa nenhuma desvantagem em seus ataques ou impede que vocΩ de lanτar feitiτos.]
+>>: []
+
+EN: [Encase multiple targets in colourful light. The targets turns visible, and attack rolls against the targets have advantage.]
+PT: [Cubra um alvo sob uma luz colorida. O alvo se torna visφvel e o ataque corre contra ele tem uma vantagem.]
+>>: []
+
+EN: [When you roll a 1 or 2 on a damage die for an attack with a two-handed melee weapon, you can reroll the die and must use the new roll.]
+PT: [Quando vocΩ pega um 1 ou 2 em um dano por um ataque que vocΩ fez com uma arma corpo a corpo de duas mπos, vocΩ pode repetir o giro, mas vocΩ deve manter o novo resultado.]
+>>: []
+
+EN: [Meanwhile, help us contend with the goblins. Perhaps we can dissuade them from attacking.]
+PT: [Enquanto isso, ajude-nos com os duendes. Talvez possamos dissuadi-los de atacar.]
+>>: []
+
+EN: [When will they attack? I've a score to settle.<br>]
+PT: [Quando eles atacarπo? Tenho uma dφvida para pagar. <br>]
+>>: []
+
+EN: [Spellcaster gains advantage on attack rolls against target for the duration.]
+PT: [O lanτador de feitiτos ganha uma vantagem no ataque corre contra o alvo atΘ que o efeito acabe.]
+>>: []
+
+EN: [Ensnared creatures cannot move and have disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage.]
+PT: [Criaturas presas nπo podem se mover e tΩm uma desvantagem nas corridas de ataque de Skill e salvar corridas. O ataque contra essas criaturas tem uma vantagem.]
+>>: []
+
+EN: [A lightweight sword that turns the slightest flick of a wrist into a deadly attack.]
+PT: [Uma espada leve que transforma o menor giro de pulso em um ataque mortal.]
+>>: []
+
+EN: [Float effortlessly to a destination. Doesn't trigger opportunity attacks.]
+PT: [Ele flutua sem esforτo atΘ um ponto de destino. Nπo causa ataques de oportunidades.]
+>>: []
+
+EN: [Creates a cloud of darkness during your attack.]
+PT: [Crie uma nuvem de escuridπo durante seu ataque.]
+>>: []
+
+EN: [This latest attack will only strengthen their resolve.<br>]
+PT: [Este ·ltimo ataque s≤ vai fazΩ-los ficar ainda piores. <br>]
+>>: []
+
+EN: [They're not attacking. Fooled by a mask.]
+PT: [Eles nπo atacam. A mßscara os enganou.]
+>>: []
+
+EN: [Those corpses - looks like there was a duergar attack.]
+PT: [Aqueles cadßveres... Parece que os adormecidos atacaram.]
+>>: []
+
+EN: [I - what? You... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [Que...? VocΩ. VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [Can't attack spellcaster. Spellcaster has advantage on all checks in dialogues.]
+PT: [Ele nπo pode atacar o lanτador de feitiτos, que tem uma vantagem em todos os testes nos dißlogos.]
+>>: []
+
+EN: [A feeble enchantment prevents this creature from attacking the spectator. Any damage could break it...]
+PT: [Um pequeno encantamento que impede esta criatura de atacar o espectador. Ele quebra com o menor dano...]
+>>: []
+
+EN: [Make a melee attack with your offhand weapon, dealing [1].]
+PT: [VocΩ faz um ataque corpo a corpo com sua arma secundßria e negocia [1].]
+>>: []
+
+EN: [A beam of enervating energy springs from your fingers. The target deals half damage with weapon attacks using Strength.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [Um feixe de energia debilitante emerge de seus dedos. O alvo tem metade dos danos com ataques de armas que dependem da Forτa. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Minthara was furious that the grove was sealed and attacked us.]
+PT: [Minthara, furioso que o bosque foi selado com cal e cantando, nos atacou.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with glaives.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo aos giros de ataque gujas.]
+>>: []
+
+EN: [Cannot move and takes [1] per turn. Attack rolls against the creature have advantage, while the creature's attack rolls and Dexterity saving throws have disadvantage.]
+PT: [Ele nπo pode se mover e sofre [1] por turno. O ataque contra a criatura tem uma vantagem, enquanto suas corridas de ataque skill e corridas de salvamento tΩm uma desvantagem.]
+>>: []
+
+EN: [A restrained creature's speed becomes 0. Attack rolls against the creature have advantage, while the creature's attack rolls and Dexterity saving throws have disadvantage.]
+PT: [A velocidade de uma criatura aprisionada torna-se 0. O ataque corre contra ela, enquanto suas corridas de ataque e as corridas de skill tΩm uma desvantagem.]
+>>: []
+
+EN: [When you heal another creature, it gains resistance against Bludgeoning, Piercing, and Slashing damage dealt by weapon attacks.]
+PT: [ResistΩncia contra danos contundentes, perfurantes e tesouras causados por ataques de armas.]
+>>: []
+
+EN: [Summon a raven that can cover great distances and launch precise attacks.]
+PT: [Convoque um corvo capaz de cobrir longas distΓncias e lanτar ataques precisos.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with longbows.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo a longas corridas de ataque de arco.]
+>>: []
+
+EN: [Weapon attacks deal an extra [1].]
+PT: [Ataques de armas lidam com um adicional [1].]
+>>: []
+
+EN: [Those goblins - have there been many attacks like that?]
+PT: [Aqueles duendes... eles atacaram mais vezes?]
+>>: []
+
+EN: [Mind flayers, flying ships, dragon attacks - the legend spreads 'cross the planes and beyond!]
+PT: [Chicoteando, voando navios e ataques de drag⌡es! A lenda se estende por todos os avi⌡es e alΘm!]
+>>: []
+
+EN: [Perhaps. There are signs that Shar's children attacked Sel√nites here.]
+PT: [Talvez. Hß indφcios de que os filhos de Shar atacaram alguns segundos nesta ßrea.]
+>>: []
+
+EN: [Summon a bear that can draw the enemy's attention and endure heavy attacks.]
+PT: [VocΩ convoca um urso capaz de atrair a atenτπo do inimigo e suportar puniτ⌡es severas.]
+>>: []
+
+EN: [Creatures hit by an attack may receive a d4 penalty to attack rolls and saving throws.]
+PT: [Criaturas que sπo atingidas por um ataque podem receber uma penalidade de 1d4 em corridas de salvamento e corridas de ataque.]
+>>: []
+
+EN: [It was a group of Gur that attacked me that night in Baldur's Gate. I would've died had Cazador not appeared and saved me.]
+PT: [Foram alguns gurs que me atacaram naquela noite em Baldur Gate. Eu teria morrido se nπo fosse por Hunter, que apareceu de repente e me salvou.]
+>>: []
+
+EN: [You again? That's enough creepin' around. Lads - attack!]
+PT: [VocΩ de novo? Estß tudo bem em rondar. Pessoal, ataquem!]
+>>: []
+
+EN: [A Blessed creature receives a d4 bonus to attack rolls and saving throws.]
+PT: [Uma criatura abenτoada recebe um b⌠nus de 1d4 para atacar corridas e salvar rodadas.]
+>>: []
+
+EN: [<i>... attack the goblins.</i>]
+PT: [<i>... atacar os duendes, </i>]
+>>: []
+
+EN: [The tieflings refused to walk away and attacked us.]
+PT: [Os tieflings se recusaram a sair e nos atacaram.]
+>>: []
+
+EN: [Bless up to 3 creatures. They receive a d4 bonus to attack rolls and saving throws.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [Abenτoe atΘ 3 criaturas. Receba um b⌠nus de 1d4 para atacar corridas e salvar rodadas. <br><br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [Multiattack]
+PT: [Ataque m·ltiplo]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with heavy crossbows.]
+PT: [Adicione seu b⌠nus de competiτπo a corridas de ataque de besta pesada.]
+>>: []
+
+EN: [Some parts of the environment are destructible. Press [IE_UICtrl] to target an object for attack. Some objects also take damage from spells and missiles.]
+PT: [Procure por partes do ambiente que vocΩ pode destruir.]
+>>: []
+
+EN: [That's none of your... you... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [Nπo Θ da sua conta... VocΩ... VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [When attacking with a glaive, halberd, quarterstaff, or spear, you can use a bonus action to attack with the butt of your weapon. Deals [1].]
+PT: [Ao atacar com um guja, um labard, uma bengala ou uma lanτa, vocΩ pode usar aτπo adicional para atacar com a base da arma. Acordo [1].]
+>>: []
+
+EN: [Has a 1d4 penalty to attack rolls and saving throws.]
+PT: [Tem uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with greatswords.]
+PT: [Adicione seu b⌠nus de competiτπo a rodadas de ataque de espadas.]
+>>: []
+
+EN: [When a melee attack scores a critical hit or kills a creature, you can make another melee attack as a bonus action.]
+PT: [Quando um ataque corpo a corpo realiza um golpe crφtico ou mata uma criatura, vocΩ pode realizar outro ataque corpo a corpo como uma aτπo adicional.]
+>>: []
+
+EN: [Shield yourself with divine light. Use your reaction to impose disadvantage on an attacker, potentially causing their attack to miss.]
+PT: [VocΩ protege o seu em uma luz divina. VocΩ usa sua reaτπo para impor uma desvantagem a um atacante, o que pode fazer com que seu ataque falhe.]
+>>: []
+
+EN: [Any nearby creatures with the Rampage trait can make a bite attack as a bonus action.]
+PT: [Criaturas pr≤ximas ao flind em um estado de raiva podem realizar um ataque de mordida como uma aτπo adicional.]
+>>: []
+
+EN: [You gain a +2 bonus to attack rolls you make with ranged weapons.]
+PT: [VocΩ recebe um b⌠nus de +2 para suas corridas de ataque de armas de alcance.]
+>>: []
+
+EN: [Target two creatures standing close to each other. Deal [1] to the first creature and open up the second for a follow-up attack.]
+PT: [VocΩ tem como alvo duas criaturas pr≤ximas uma da outra. VocΩ inflige [1] o primeiro e vocΩ pode atacar o segundo.]
+>>: []
+
+EN: [Minthara is preparing to attack the grove. We should return to the tieflings.]
+PT: [Minthara estß se preparando para atacar o bosque. Deverφamos voltar para os tieflings.]
+>>: []
+
+EN: [Create a cloud of magical darkness to Heavily Obscure and Blind creatures within. Creatures cannot make ranged attacks into or out of the darkness.]
+PT: [VocΩ cria uma nuvem de escuridπo mßgica cuja ßrea Θ muito escura e cega as criaturas lß dentro. Criaturas nπo podem realizar ataques de ou para a escuridπo.]
+>>: []
+
+EN: [When you are attacked with a melee attack, you use your reaction to increase your Armour Class by [1], potentially causing the attack to miss.]
+PT: [Quando vocΩ recebe um ataque corpo a corpo, vocΩ usa sua reaτπo para aumentar seu CA em [1], o que pode fazer com que o ataque falhe.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with scimitars.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque cimitarra.]
+>>: []
+
+EN: [*The owlbear's talons flash, primed to attack.*]
+PT: [*O urso coruja sobe nas patas traseiras com as esporas em cacho.*]
+>>: []
+
+EN: [Must attack the goading creature, if possible.]
+PT: [Se possφvel, vocΩ deve atacar a criatura que a causou.]
+>>: []
+
+EN: [Tell her you'll join her in attacking that camp. ]
+PT: [Diga a ela que vai atacar o acampamento com ela.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with longswords.]
+PT: [Adicione seu b⌠nus de competiτπo a longas corridas de ataque de espada.]
+>>: []
+
+EN: [Divine a character's defences to give you advantage on attack rolls against it.]
+PT: [Acho que as defesas de um personagem para ganhar vantagem no ataque correm contra ele.]
+>>: []
+
+EN: [An attack? They wouldn't...]
+PT: [Um ataque? Eles nπo se atrevem...]
+>>: []
+
+EN: [This was no random attack. The Grand Duke was their target.]
+PT: [Nπo foi um ataque aleat≤rio. Seu alvo era o Grπo-Duque.]
+>>: []
+
+EN: [When you attack the target of your Hex spell, you deal an additional [1].]
+PT: [Quando vocΩ ataca o alvo com seu feitiτo de maldiτπo, vocΩ negocia um adicional [1].]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Intelligence.]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. TambΘm tem uma desvantagem em testes de recursos baseados em inteligΩncia.]
+>>: []
+
+EN: [<i>Meet his threat and attack.</i>]
+PT: [<i>Reponder sua ameaτa e ataque, </i>]
+>>: []
+
+EN: [Coward... attacked...  interrupted my work... ]
+PT: [... Covarde... Atacado... interrompeu meu trabalho...]
+>>: []
+
+EN: [Wanted for killing a guard. Allied guards will attack on sight.]
+PT: [Ele queria matar um guarda. Guardas aliados atacarπo ao vΩ-lo.]
+>>: []
+
+EN: [<i>Show the duergar attacking on sight, not caring that you were their superior.</i>]
+PT: [Eu mostrei o dorminhoco atacando o bom, nπo importa se eu fosse seu superior.]
+>>: []
+
+EN: [Gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes [1].]
+PT: [VocΩ tem 5 pontos de impacto temporßrios atΘ o efeito passar. Se o ataque corpo a corpo de uma criatura atingir vocΩ enquanto retΘm os pontos de ataque, ele sofrerß [1].]
+>>: []
+
+EN: [Follow up on your horde breaker with a second attack. Deal [1].]
+PT: [Siga seu Horda Destroyer com um segundo ataque. VocΩ inflige [1].]
+>>: []
+
+EN: [When the wearer heals a creature, it also receives a d4 bonus to attack rolls and saving throws.]
+PT: [Quando o portador curar uma criatura, a criatura tambΘm receberß um b⌠nus de 1d4 para suas corridas de ataque e salvar rodadas.]
+>>: []
+
+EN: [Ranged attacks and spells have a range of [1] and attack rolls suffer disadvantage. Attack rolls against Blinded creatures have advantage.]
+PT: [Ataques e feitiτos ranged tΩm um alcance de [1] e as corridas de ataque sπo desfavorecidas. O ataque contra criaturas cegas tem uma vantagem.]
+>>: []
+
+EN: [Minthara died before she could lead an attack on the grove.]
+PT: [Drow Minthara estß morto antes que ela possa liderar um ataque no bosque.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with shortbows.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo a corridas de ataque de arco curto.]
+>>: []
+
+EN: [If you move after making a melee attack, you don't provoke an opportunity attack from your target.]
+PT: [Se vocΩ se mover depois de realizar um ataque corpo a corpo, vocΩ nπo causar um ataque de oportunidade por parte do seu alvo.]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Strength.]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. Ele tambΘm tem uma desvantagem nos testes de recursos baseados em Forτa.]
+>>: []
+
+EN: [Has a 1d4 penalty to attack rolls and saving throws.]
+PT: [Tem uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [Main Hand Attack (Multiattack)]
+PT: [Ataque de mπo habilidoso (ataque m·ltiplo)]
+>>: []
+
+EN: [Creature must take a death saving throw each turn. On a third success, it becomes stable. On a third failure, it dies. Taking damage is considered a failure. The creature also automatically fails Strength and Dexterity saving throws, attack rolls against it have advantage, and attacks are critical if the attacker is within [1] of the creature.]
+PT: [A criatura deve superar um giro que salva a morte a cada volta. Se ele superar trΩs vezes, ele fica estßvel. Se ele falhar trΩs vezes, ele morre. AlΘm disso, ele falha automaticamente em vigor e corridas de resgate destreza, corridas de ataque contra ele tΩm uma vantagem, e qualquer ataque que ele sofre Θ um golpe crφtico se o atacante for menor que [1].]
+>>: []
+
+EN: [Invisible to enemies until you cross their cone of sight. You have advantage on all attack rolls.]
+PT: [VocΩ Θ invisφvel para inimigos atΘ cruzar o cone de visπo deles. VocΩ tem uma vantagem em todas as corridas de ataque.]
+>>: []
+
+EN: [Creature has a +2 bonus to Armour Class, advantage on Dexterity saving throws, and its speed is doubled. It also has an additional action to make a weapon attack or use an object.]
+PT: [A criatura tem um b⌠nus de +2 para sua Classe Armor, vantagem nas corridas de salvamento de Skill, e dobra sua velocidade. Ele tambΘm tem aτπo adicional para realizar um ataque de arma ou usar um item.]
+>>: []
+
+EN: [Did anyone survive the attack?]
+PT: [AlguΘm sobreviveu ao ataque?]
+>>: []
+
+EN: [I've been attacked!]
+PT: [Fui atacado!]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with darts.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo a rodadas de ataque de dardos.]
+>>: []
+
+EN: [*The bear sizes you up, wary, but not yet attacking.*]
+PT: [O urso olha para vocΩ com cuidado, mas nπo te ataca.]
+>>: []
+
+EN: [Speed is increased by [1] and doesn't provoke opportunity attacks.]
+PT: [A velocidade aumenta em [1] e nπo causa ataques de oportunidade.]
+>>: []
+
+EN: [Your body becomes blurred. Attackers have disadvantage on attack rolls against you.<br><br>Doesn't affect creatures that don't rely on sight or that can see through illusions.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [Seu corpo fica embaτado. Atacantes tΩm uma desvantagem em atacar corridas contra vocΩ. <br><br>Nπo afeta criaturas que nπo dependem da visπo ou podem ver atravΘs de ilus⌡es.<br> <br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [The Myconid Sovereign told us that duergar attacked its circle and wants us to kill them.]
+PT: [O governante miconid nos disse que alguns adormecidos atacaram seu cφrculo e querem matß-los.]
+>>: []
+
+EN: [Why did these duergar attack you?]
+PT: [Por que esses adormecidos te atacaram?]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with shortbows.]
+PT: [Adicione seu b⌠nus de competiτπo a corridas de ataque de arco curto.]
+>>: []
+
+EN: [Move! They're attacking.]
+PT: [Mover! Eles estπo atacando.]
+>>: []
+
+EN: [Wielding a shield will not impose disadvantage on your attacks or prevent the casting of spells.]
+PT: [Usar um escudo nπo causa nenhuma desvantagem em seus ataques ou impede que vocΩ jogue feitiτos.]
+>>: []
+
+EN: [Assail a creature with the chill of the grave. It takes [1] and cannot regain hit points. Undead creatures also get disadvantage on attack rolls.]
+PT: [VocΩ bate em uma criatura no frio do t·mulo. Ele recebe [1] e nπo consegue recuperar pontos de acerto. Criaturas mortas vivas tambΘm ganham uma desvantagem nas corridas de ataque.]
+>>: []
+
+EN: [<i>Seize her mind, urging her to attack the cave-in.</i>]
+PT: [<i>Toym controle de sua mente e ordene-lhe para atacar o colapso, </i>]
+>>: []
+
+EN: [<i>Nod to Wyll and prepare to attack.</i>]
+PT: [<i>Look em Wyll, acenar e prepare-se para o ataque, </i>]
+>>: []
+
+EN: [You scoundrels attacked these peaceful villagers completely unprovoked! Filthy, dim-witted...]
+PT: [Rufianes, vocΩ atacou esses locais pacφficos sem qualquer provocaτπo! Nojento, est·pido...]
+>>: []
+
+EN: [The next time you take damage, you use your reaction to surround your attacker in hellish flames that deal [1].]
+PT: [Em reaτπo ap≤s ser danificado, vocΩ cerca seu agressor com chamas infernais que lidam [1].]
+>>: []
+
+EN: [The tiefling refused to walk away and attacked us.]
+PT: [Os tieflings se recusaram a sair e nos atacaram.]
+>>: []
+
+EN: [You're even worse at lying than you are at sneak attacks. You and I are done.]
+PT: [VocΩ Θ pior em mentiras do que caτa furtiva. VocΩ e eu terminamos.]
+>>: []
+
+EN: [Creature is open to a follow-up attack.]
+PT: [A criatura Θ vulnerßvel a um segundo ataque.]
+>>: []
+
+EN: [Size is increased, causing advantage on Strength checks and Strength saving throws. Weapon attacks deal 1d4 more damage.]
+PT: [O tamanho aumenta, causando vantagem nos testes de Forτa e no Force Save Runs. Ataques de armas causarπo mais 1d4 de dano.]
+>>: []
+
+EN: [Melee attacks deal an extra [1] until end of turn.]
+PT: [Ataques corpo a corpo negociam um adicional [1] atΘ o final da curva.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with light crossbows.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de besta leve.]
+>>: []
+
+EN: [Spellcaster has attack advantage against True Strike's target.]
+PT: [O lanτador de feitiτos tem uma vantagem de ataque contra o alvo de impacto certo.]
+>>: []
+
+EN: [Advantage on next melee attack until end of turn.]
+PT: [Vantagem no pr≤ximo ataque corpo a corpo atΘ o final da curva.]
+>>: []
+
+EN: [Call forth a beam of light. Deals [1] and grants advantage on the next attack against the target.]
+PT: [Convoque um raio de luz. Negocie [1] e conceda uma vantagem no pr≤ximo ataque com o alvo.]
+>>: []
+
+EN: [When you roll a 1 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.]
+PT: [Quando vocΩ rolar um 1 no d20 em uma corrida de ataque, testar recursos ou salvar spin, vocΩ pode rolar os dados novamente, mas vocΩ deve usar o novo giro.]
+>>: []
+
+EN: [*... the creature in the wreckage is forcing them to attack you, controlling them like puppets.* ]
+PT: [A criatura entre os restos mortais estß forτando-os a atacß-lo, controlß-los como fantoches.]
+>>: []
+
+EN: [Summon a familiar with the form and statistics of a raven. It can launch precise attacks.]
+PT: [VocΩ convoca um parente com a forma e o perfil de um corvo. ╔ capaz de lanτar ataques precisos.]
+>>: []
+
+EN: [Has advantage on attacks and imposes disadvantages on enemy attacks. Attacking or casting spells ends this condition.]
+PT: [A criatura Θ invisφvel. Tem uma vantagem em atacar e imp⌡e uma desvantagem aos ataques de seus inimigos. Atacar ou lanτar um feitiτo substitui este estado.]
+>>: []
+
+EN: [Weapon attacks deal an extra [1].]
+PT: [Ataques de armas lidam com um adicional [1].]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with warhammers.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo para atacar corridas com martelos de guerra.]
+>>: []
+
+EN: [What...? You... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [Que...? VocΩ... VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [<i>Urge her to attack them.</i>]
+PT: [<i>incitando-a a atacß-los, </i>]
+>>: []
+
+EN: [We're refugees from Elturel - we took shelter here after gnolls attacked us on the road.]
+PT: [Somos refugiados de Elturel. Pedimos asilo aqui depois que os Gnolls nos atacaram pelo caminho.]
+>>: []
+
+EN: [I was attacked. A gang of vagrants, a tribe of wandering 'Gur', took issue with a ruling I'd made.]
+PT: [Fui atacado por um bando de sem-teto. Uma tribo de gurs errantes nπo gostou da minha opiniπo em uma disputa.]
+>>: []
+
+EN: [Can't make an attack of opportunity against its most recent attacker.]
+PT: [VocΩ nπo pode executar um ataque de oportunidade contra o seu atacante mais recente.]
+>>: []
+
+EN: [Huh? You... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [...? VocΩ. VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [Enemy creatures have disadvantage on attack rolls against you.]
+PT: [Criaturas inimigas tΩm uma desvantagem em atacß-lo.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with longswords.]
+PT: [Adicione seu b⌠nus de competiτπo a longas corridas de ataque de espada.]
+>>: []
+
+EN: [Creatures have a +2 bonus to Armour Class, advantage on Dexterity saving throws, and their speed is doubled. They also have an additional action to make a weapon attack or use and object.]
+PT: [As criaturas tΩm um b⌠nus de +2 para sua Classe de Armadura, vantagem nas rodadas de salvaτπo de Skill, e sua velocidade dobra. Eles tambΘm tΩm aτπo adicional para fazer um ataque de arma ou usar um item.]
+>>: []
+
+EN: [They do not attack. The mask must ward them off.]
+PT: [Eles nπo atacam. Acho que a mßscara os mantΘm afastados.]
+>>: []
+
+EN: [Make a ranged attack with your equipped weapon, dealing [1].]
+PT: [VocΩ faz um ataque de alcance com sua arma e causa [1].]
+>>: []
+
+EN: [Deal only half damage with weapon attacks that use Strength.]
+PT: [Lida com apenas metade dos danos com ataques de armas baseados na Forτa.]
+>>: []
+
+EN: [The goblins are planning to attack the grove. We should return there as soon as possible.]
+PT: [Os Goblins planejam atacar aquele lugar que chamam de "o bosque". Devemos descobrir mais sobre isso antes de tudo.]
+>>: []
+
+EN: [My <i>kind</i> was attacking the enemy. You don't look like the enemy to me.]
+PT: [Meu povo estava atacando o inimigo. E eu nπo acho que vocΩ Θ o inimigo.]
+>>: []
+
+EN: [What happens if they attack before we get the signal?]
+PT: [E se eles atacarem antes de ouvirmos o sinal?]
+>>: []
+
+EN: [Float effortlessly to a destination. Doesn't trigger opportunity attacks.]
+PT: [Ele flutua sem esforτo atΘ um ponto de destino. Nπo causa ataques de oportunidades.]
+>>: []
+
+EN: [Your size is reduced. You have disadvantage on Strength checks and saving throws. Your weapon attacks deal 1d4 less damage.]
+PT: [Seu tamanho Θ reduzido. VocΩ tem uma desvantagem nas corridas de salvaτπo e julgamentos da Forτa. Seus ataques de armas causarπo 1d4 menos dano.]
+>>: []
+
+EN: [*I got ready to attack. Time to give those pests what they deserved.*]
+PT: [Preparei-me para atacar e dar α multidπo o que ela merece.]
+>>: []
+
+EN: [*I attacked.*]
+PT: [*AtaquΘ.*]
+>>: []
+
+EN: [The next time the creature takes damage, it uses its reaction to surround its attacker in hellish flames that deal [1].]
+PT: [Da pr≤xima vez que vocΩ tomar dano, vocΩ pode usar sua reaτπo para cercar seu atacante com chamas infernais que lidam [1].]
+>>: []
+
+EN: [Shed dim light. Incoming attacks have advantage. Cannot be Invisible.]
+PT: [Ele emite uma luz fraca. Ataques inimigos tΩm uma vantagem. Nπo pode ficar invisφvel.]
+>>: []
+
+EN: [Famished for slaughter. Chance to go Mad and attack indiscriminately if it hasn't dealt any damage by the end of its turn.]
+PT: [Querendo fazer um massacre. Chance de enlouquecer e atacar indiscriminadamente se vocΩ nπo tiver causado nenhum dano no final de sua vez.]
+>>: []
+
+EN: [Cannot move. Attack rolls against you have advantage, while your attack rolls have disadvantage. You also have disadvantage on Dexterity saving throws.]
+PT: [VocΩ nπo pode se mover. O ataque corre contra vocΩ tem uma vantagem e suas corridas de ataque tΩm uma desvantagem. VocΩ tambΘm tem uma desvantagem nas corridas de salvaτπo de Skill.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with battleaxes.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de machado de guerra.]
+>>: []
+
+EN: [We exposed Kagha as a traitor. Furious, she attacked us.]
+PT: [Desmascaramos o traidor de Kagha. Furiosa, ela nos atacou.]
+>>: []
+
+EN: [The healer can wait - this camp cannot repel another attack.]
+PT: [O curandeiro pode esperar. Este acampamento nπo resistirß a outro ataque.]
+>>: []
+
+EN: [Never thought the druids would attack. Thank you. We were lucky to have you. ]
+PT: [Nunca pensei que os druidas nos atacariam. Obrigado, temos sorte de ter vocΩ.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with light hammers.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo para atacar corridas com martelos leves.]
+>>: []
+
+EN: [Charisma modifier added to attack rolls made with equipped weapon. The weapon is made magical and emits light.]
+PT: [O modificador Carisma foi adicionado αs corridas de ataque feitas com a arma equipada. A arma agora Θ mßgica e emite luz.]
+>>: []
+
+EN: [Make a ranged weapon attack to deal [1] and and reduce the target's movement speed by [2].]
+PT: [VocΩ faz um ataque de arma de alcance que lida [1] e reduz a velocidade de movimento do alvo em [2].]
+>>: []
+
+EN: [Bless grants an additional 1d4 to saving throws and normal attacks, and an additional 2d4 to spells using attack rolls.]
+PT: [A bΩnτπo concede um adicional de 1d4 para corridas de salvaτπo e ataques normais e um adicional de 2d4 para feitiτos usando corridas de ataque.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with handaxes.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de machado de mπo.]
+>>: []
+
+EN: [When attacking with Heavy Weapons you are proficient with, attack rolls take a -5 penalty, but their damage increases by 10.]
+PT: [Ao atacar com armas pesadas com as quais vocΩ tem concorrΩncia, as corridas de ataque sofrem uma penalidade de -5, mas seu dano Θ aumentado em 10.]
+>>: []
+
+EN: [No idea. This man just started attacking the boy.]
+PT: [Nπo faτo ideia. Esse cara comeτou a bater no garoto.]
+>>: []
+
+EN: [We attacked the tieflings.]
+PT: [N≤s atacamos os tieflings.]
+>>: []
+
+EN: [*The spider seems poised to attack, but she hesitates, tapping her claws as if trying to communicate.*]
+PT: [*A aranha parece disposta a atacar, mas hesita e escamos com suas garras, como se tentasse se comunicar.*]
+>>: []
+
+EN: [When the spear misses its target, the wielder's next attack against that target is made with advantage.]
+PT: [Quando a lanτa falhar, o pr≤ximo ataque daquele que estiver tende serß desfavorecido.]
+>>: []
+
+EN: [The next attack roll made against this creature has advantage.]
+PT: [A pr≤xima corrida de ataque feita contra esta criatura tem uma vantagem.]
+>>: []
+
+EN: [Turn into a cloud of vapour.<br>Unlock the ability to fly for 10 feet. Gain resistance to Nonmagical damage and advantage on Strength, Dexterity, and Constitution saving throws.<br>While under its effect, character cannot manipulate objects, attack, or cast spells.<br><br><i>Consuming this potion feels more like swallowing vapour than liquid.</i>]
+PT: [VocΩ se torna uma nuvem de vapor. <br>atraque a habilidade de voar por 3 metros. Ganhe resistΩncia a danos nπo-mßgicos e vantagem na salvaτπo da Forτa, Habilidade e Constituiτπo. <br>to que o efeito dura, o personagem nπo pode manipular objetos, atacar ou lanτar feitiτos. <br><br><i>Consuming esta poτπo Θ mais como engolir um vapor do que um lφquido, </i>]
+>>: []
+
+EN: [Goblin attacks and now a dead child. We never should have opened our gates. ]
+PT: [O duende ataca e agora uma garota morta. Nunca deverφamos ter aberto nossas portas.]
+>>: []
+
+EN: [For ranged attacks, gain Advantage by shooting from higher ground. Shooting from lower ground than your target gives you Disadvantage. For light melee weapons, gain Advantage by getting behind your foes to backstab them. ]
+PT: [Em ataques de alcance, vocΩ ganha uma vantagem atirando em locais elevados. FazΩ-lo de baixo lhe dß uma desvantagem. Para armas leves, vocΩ tem a vantagem se ficar atrßs de seus inimigos para apunhalß-los pelas costas.]
+>>: []
+
+EN: [I worry because we've lost our druids, and now we've got goblins attacking the gate.]
+PT: [O que me preocupa Θ que perdemos nossos druidas, e agora temos alguns duendes nos port⌡es.]
+>>: []
+
+EN: [My powers are being wasted back here! I could repel any attack in the blink of an eye.]
+PT: [Estou desperdiτando meus poderes aqui! Poderia repelir qualquer ataque com um estalo de dedos.]
+>>: []
+
+EN: [Instead we're just <i>sitting</i> here - practically begging to be attacked. Staying is a mistake. ]
+PT: [Em vez disso, estamos aqui. Praticamente implorando para ser atacado. Ficar Θ um erro.]
+>>: []
+
+EN: [The target can't be Charmed, Frightened, or possessed by them, and when these creatures attack it, they do so with disadvantage.]
+PT: [Estas criaturas nπo podem enfeitiτar, assustar ou possuir o alvo, e quando atacadas, o fazem em desvantagem.]
+>>: []
+
+EN: [Creature has advantage on melee weapon attack rolls, but its attackers also have advantage on attack rolls against the creature.]
+PT: [Criaturas presas nπo podem se mover e tΩm uma desvantagem nas corridas de ataque de Skill e salvar corridas. O ataque contra essas criaturas tem uma vantagem.]
+>>: []
+
+EN: [With the leadership dead, no attack will be mounted on the Grove. I am in your debt, my friend.]
+PT: [Com seus lφderes mortos, eles nπo se atrevem a atacar o bosque. Estou em dφvida com vocΩ, meu amigo.]
+>>: []
+
+EN: [We remained neutral when Lae'zel asked us for help, and she attacked us.]
+PT: [Permanecemos neutros quando Lae'zel nos pediu ajuda, e nos atacou.]
+>>: []
+
+EN: [Agreed. We are not prepared for an attack.]
+PT: [Verdade. Nπo estamos prontos para um ataque.]
+>>: []
+
+EN: [A drow attacked me and I defended myself. Afterwards, I was able to examine the tadpole that emerged.]
+PT: [Um sono me atacou e eu revidei. Depois, pude examinar o girino que saiu do corpo dele.]
+>>: []
+
+EN: [Has advantage on attacks and imposes disadvantages on enemy attacks. Attacking or casting spells ends this condition.]
+PT: [A criatura Θ invisφvel. Tem uma vantagem em atacar e imp⌡e uma desvantagem aos ataques de seus inimigos. Atacar ou lanτar um feitiτo substitui este estado.]
+>>: []
+
+EN: [Strength influences your chance to land a hit <hl>(attack roll)</hl> and your <hl>damage</hl> with Strength-based weapons. It affects the <hl>distance</hl> you can Jump and the <hl>weight</hl> you can carry.]
+PT: [A Forτa influencia suas chances de acertar <hl></hl>e o <hl>da±o</hl> vocΩ faz com armas que dependem da Forτa. Ele tambΘm determina <hl>distΓncia</hl> vocΩ pode saltar e o <hl>peso</hl> vocΩ pode carregar.]
+>>: []
+
+EN: [We have no choice - attack!]
+PT: [Nπo temos escolha. Ataque!]
+>>: []
+
+EN: [*She severs the connection, and prepares to attack.*]
+PT: [*Corte a conexπo e prepare-se para atacar.*]
+>>: []
+
+EN: [They only attacked after <i>we </i>desecrated a tomb. We should have left this place untouched. <br>]
+PT: [S≤ nos atacaram depois de profanßssemos uma sepultura. Deverφamos ter deixado este lugar em paz.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with spears.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque de lanτa.]
+>>: []
+
+EN: [A Baned creature receives a d4 penalty to attack rolls and saving throws.]
+PT: [Uma criatura que sofreu o efeito do feitiτo da desgraτa recebe uma penalidade de 1d4 por rodadas de ataque e giros de salvaτπo.]
+>>: []
+
+EN: [We've interrupted the druids' ritual to close the grove, but now they are attacking the tieflings!]
+PT: [Interrompemos o ritual que os druidas estavam realizando para fechar o bosque, mas agora eles comeτaram a atacar os tieflings!]
+>>: []
+
+EN: [This effect still works if your attack misses.]
+PT: [Este efeito funciona mesmo que seu ataque falhe.]
+>>: []
+
+EN: [Disadvantage on attack]
+PT: [Desvantagem em atacar]
+>>: []
+
+EN: [Can't be attacked by enemies with lower Wisdom scores.]
+PT: [VocΩ nπo pode receber ataques de inimigos com uma pontuaτπo mais baixa da Sabedoria.]
+>>: []
+
+EN: [Target up to 3 creatures. They receive a d4 penalty to attack rolls and saving throws.]
+PT: [Alvo de atΘ 3 criaturas. Receba uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [They're not attacking - thanks to the mask, no doubt.]
+PT: [Eles nπo atacam. ╔ definitivamente graτas α mßscara.]
+>>: []
+
+EN: [When a gnoll Downs a creature with a melee attack on its turn, it regains 1 bonus action and half of its movement speed.]
+PT: [Quando um gnoll derruba uma criatura com um ataque corpo a corpo durante sua curva, ele recupera 1 aτπo adicional e metade de sua velocidade de movimento.]
+>>: []
+
+EN: [This must be where the gnolls attacked.]
+PT: [Acho que foi aqui que os gnolls atacaram.]
+>>: []
+
+EN: [Cannot regain hit points. If Undead, has disadvantage on attack rolls.]
+PT: [Ele nπo pode ter pontos de ataque de volta. Se ele Θ um homem morto vivo, ele tem uma desvantagem em atacar corridas.]
+>>: []
+
+EN: [She attacked me. I had no choice.]
+PT: [Ele me atacou. Nπo tive escolha.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with longbows.]
+PT: [Adicione seu b⌠nus de competiτπo a longas corridas de ataque de arco.]
+>>: []
+
+EN: [Your movement doesn't provoke opportunity attacks for the rest of the turn.]
+PT: [Para o resto da virada, seu movimento nπo causa ataques de oportunidade.]
+>>: []
+
+EN: [Coats one piercing or slashing weapon, or three pieces of ammunition. Creatures hit are Poisoned for 1 hour if they fail a Constitution saving throw, receiving disadvantage on attacks on ability rolls.<br><br><i> Drow cultivate poisons with religious fervour - and Lolth is pleased by only the deadliest of concoctions.</i>]
+PT: [Cubra uma arma perfurante ou de corte ou atΘ trΩs pedaτos de muniτπo. Criaturas que sofrerem um impacto serπo envenenadas por 1 hora se falharem em uma Constituiτπo salvar rolo e sofrerπo uma desvantagem em ataques e testes de recursos. <br><br><i>Drows cultivam venenos com fervor religioso... e Lolth s≤ estß satisfeito com o mais mortal, </i>]
+>>: []
+
+EN: [And why would I really, <i>really</i> not want attack you?]
+PT: [E por que, se pode ser conhecido, eu nπo deveria atacß-lo?]
+>>: []
+
+EN: [When attacked with a melee attack, the creature uses its reaction to increase its Armour Class by [1], potentially causing the attack to miss.]
+PT: [Ao receber um ataque corpo a corpo, a criatura usa sua reaτπo para aumentar seu CA em [1], o que pode fazer com que o ataque falhe.]
+>>: []
+
+EN: [We attacked the duergar.]
+PT: [Atacamos os adormecidos.]
+>>: []
+
+EN: [Has disadvantage on attack rolls against anyone but the spellcaster, and must make a Wisdom saving throw if attempting to move farther than [1] away from it.]
+PT: [Ele tem uma desvantagem em atacar corre contra qualquer um que nπo seja o lanτador de feitiτos e deve realizar um rolo de salvaτπo da Sabedoria se ele tentar se afastar mais dele.]
+>>: []
+
+EN: [Multiattack (Ranged)]
+PT: [Ataque m·ltiplo (remoto)]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with shortswords.]
+PT: [Adicione seu b⌠nus de competiτπo a corridas curtas de ataque de espada.]
+>>: []
+
+EN: [The weapon's effective attack distance.]
+PT: [A distΓncia de ataque eficaz da arma.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with light hammers.]
+PT: [Adicione seu b⌠nus de competiτπo para atacar corridas com martelos leves.]
+>>: []
+
+EN: [We released Lae'zel from her cage, and the tieflings attacked us.]
+PT: [Libertamos Lae'zel de sua jaula, e os tieflings nos atacaram.]
+>>: []
+
+EN: [From there, his forces could access both the temple of Sel√ne and Moonrise Towers in secret - but Ketheric was defeated before he could launch an attack from the Underdark.]
+PT: [A partir daφ, suas forτas poderiam acessar o templo de Selene e as Torres de Alzaluna sem serem vistas. No entanto, Ketheric foi derrotado antes que ele pudesse lanτar sua ofensiva a partir do Underdark.]
+>>: []
+
+EN: [This bonus gets added to the following dice rolls: attacks, spell attacks, skills, and saving throws you're proficient in.]
+PT: [Aplica-se a ataques, feitiτos, habilidades e giros de salvaτπo em que vocΩ Θ proficiente.]
+>>: []
+
+EN: [Resistance against Bludgeoning, Piercing, and Slashing damage dealt by weapon attacks.]
+PT: [ResistΩncia contra danos contundentes, perfurantes e tesouras causados por ataques de armas.]
+>>: []
+
+EN: [A bonus to your melee attack rolls. When trying to hit a target, your attack roll must match the enemy's Armour Class. Roll a d20, add your Proficiency Bonus and your attack roll's Ability Modifier, then compare the result to your target's Armour Class.]
+PT: [Um b⌠nus para o seu ataque corpo a corpo corre. Ao tentar acertar um alvo, a corrida de ataque deve coincidir com o AC (classe de armadura) do inimigo. Jogue um d20, adicione o b⌠nus de competiτπo e apresente o modificador de recursos da corrida de ataque e, em seguida, compare o resultado com o CA do alvo.]
+>>: []
+
+EN: [We attacked the tiefling.]
+PT: [N≤s atacamos os tieflings.]
+>>: []
+
+EN: [Protect a creature against aberrations, celestials, elementals, fey, fiends, and undead.<br><br>The target can't be Charmed, Frightened, or possessed by them, and when these creatures attack it, they do so with disadvantage.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [VocΩ protege uma criatura de aberraτ⌡es, celeste, elementar, feroz, infernal e morto-vivo. <br><br>As criaturas nπo podem enfeitiτar, assustar ou possuir o alvo, e quando o atacam, o fazem em desvantagem, <br> <br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [When applied to piercing or slashing weapons, grants a +3 bonus to attack and damage rolls. <br><br><i>Tiny silver shards give this clear, gelatinous substance an uneven sparkle.</i>]
+PT: [Quando aplicado a armas perfurantes ou afiadas, concede um b⌠nus de +3 para atacar e danificar giros. <br><br><i>Um pequenos fragmentos de prata dπo a esta substΓncia clara e gelatinosa um brilho desigual, </i>]
+>>: []
+
+EN: [Dexterity influences your chance to land a hit <hl>(attack roll)</hl> and your <hl>damage</hl> with Dexterity-based weapons. It also influences your chance of going first in combat <hl>(Initiative)</hl> and the enemy's chance of hitting you <hl>(Armour Class)</hl>.]
+PT: [Habilidade representa sua agilidade e graτa; melhora a classe de armadura, a iniciativa e certas habilidades.]
+>>: []
+
+EN: [When a creature misses you with a melee attack, expend a superiority die to retaliate and deal [1].]
+PT: [Quando uma criatura falha em atacß-lo corpo a corpo, gasta um dado de supremacia para contra-atacar e infligir [1].]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with daggers.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque da adaga.]
+>>: []
+
+EN: [An enemy is close. Creature has disadvantage on ranged attacks.]
+PT: [Hß um inimigo por perto. A criatura tem uma desvantagem em ataques de alcance.]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Dexterity.]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. Ele tambΘm tem uma desvantagem em testes de recursos baseados em habilidades.]
+>>: []
+
+EN: [When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.]
+PT: [Quando vocΩ rolar um 1 no d20 em uma corrida de ataque, testar recursos ou salvar spin, vocΩ pode rolar os dados novamente, mas vocΩ deve usar o novo giro.]
+>>: []
+
+EN: [For ranged attacks, gain Advantage by shooting from higher ground. Shooting from lower ground than your target gives you Disadvantage. For light melee weapons, gain Advantage by getting behind your foes to backstab them. ]
+PT: [Em ataques de alcance, vocΩ ganha uma vantagem atirando em locais elevados. FazΩ-lo de baixo lhe dß uma desvantagem. Para armas leves, vocΩ tem a vantagem se ficar atrßs de seus inimigos para apunhalß-los pelas costas.]
+>>: []
+
+EN: [You take a -5 penalty to attack rolls you make with heavy melee weapons.]
+PT: [VocΩ sofre uma penalidade de -5 para as corridas de ataque que vocΩ faz com pesadas armas brancas.]
+>>: []
+
+EN: [*The owlbear's talons raked the ground - but did not attack.*]
+PT: [A coruja cavou a terra com as esporas..., mas nπo atacou.]
+>>: []
+
+EN: [Barely-visible lines and numbers trace a plan of attack across the mapÆs surface.]
+PT: [Linhas e n·meros pouco visφveis traτam um plano de ataque na superfφcie do mapa.]
+>>: []
+
+EN: [Make a melee attack with your equipped weapon, dealing [1].]
+PT: [Execute um ataque corpo a corpo com sua arma e cause [1].]
+>>: []
+
+EN: [Bane targets up to 3 creatures. They receive a d4 penalty to attack rolls and saving throws.]
+PT: [O feitiτo da desgraτa estabelece um mßximo de 3 criaturas como alvos. Receba uma penalidade de 1d4 para corridas de ataque e corridas de salvamento.]
+>>: []
+
+EN: [<i>They seem ready to attack - be the one to strike first.</i>]
+PT: [<i> estß pronto para atacar. Fique α frente deles, </i>]
+>>: []
+
+EN: [An attacker that can't be Blinded is immune to this effect.  This is a Reaction. Toggle a reaction during your turn. It will automatically execute when needed.]
+PT: [Atacantes que nπo podem ser cegos sπo imunes a esse efeito. ╔ uma reaτπo. Ative uma reaτπo durante sua vez. Funcionarß automaticamente quando necessßrio.]
+>>: []
+
+EN: [Agreed. This lot couldn't fight off a cold, never mind another attack.]
+PT: [Sim. Esta gangue nπo poderia se defender de um resfriado, muito menos de outro ataque.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with clubs.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs rodadas de ataque do clube.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with javelins.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de dardos.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with rapiers.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque stoque.]
+>>: []
+
+EN: [Feels a bit woozy. -1 to all attack rolls, saving throws, and skill checks until next rest.]
+PT: [Ele tem um pouco de tontura. -1 para todas as corridas de ataque, corridas de salvamento e testes de habilidades atΘ o pr≤ximo intervalo.]
+>>: []
+
+EN: [Charge forward and attack all enemies and objects in the way, dealing [1].]
+PT: [VocΩ ataca e ataca todos os inimigos e objetos em seu caminho, e vocΩ inflige [1].]
+>>: []
+
+EN: [Evocation spells focus elemental energy into powerful attacks and enchantments. Those who specialise in this school are known as evokers.]
+PT: [Feitiτos de evocaτπo concentram energia elementar e a transformam em ataques e encantamentos poderosos. Aqueles que se especializam nesta escola sπo conhecidos como evocativos.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with glaives.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque gujas.]
+>>: []
+
+EN: [A spectral frost covers you. Gain 5 temporary hit points and deal [1] to any creature that hits you with a melee attack.]
+PT: [VocΩ estß coberto de uma geada espectral. Ganhe 5 pontos de ataque temporßrios e negocie [1] a qualquer criatura que te atinja com um ataque corpo a corpo.]
+>>: []
+
+EN: [The grove is safe - the attackers were defeated.]
+PT: [O bosque estß seguro de novo. Os atacantes foram derrotados.]
+>>: []
+
+EN: [<i>You? </i> Like crank you did. Lads - attack!]
+PT: [VocΩ? E uma buzina. Pessoal, ataquem!]
+>>: []
+
+EN: [Automatically attack one creature moving out of your reach. This is a Reaction. Reactions happen outside of your turn.]
+PT: [VocΩ ataca criaturas que estπo se afastando do seu alcance.]
+>>: []
+
+EN: [<i>Drop the ruse and attack.</i>]
+PT: [<i>Praising the ploy and attacking,</i>]
+>>: []
+
+EN: [As a reaction to taking damage, you surround your attacker in hellish flames that deal [1].]
+PT: [Em reaτπo ao dano, vocΩ cerca o atacante com chamas infernais que lidam [1].]
+>>: []
+
+EN: [When the wearer heals a creature, it automatically disengages and won't trigger opportunity attacks.]
+PT: [Quando o portador cura uma criatura, ela desbloqueia automaticamente e nπo desencadeia ataques de oportunidade.]
+>>: []
+
+EN: [Wha... ? You. You're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [Que...? VocΩ. VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with maces.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque de maτa.]
+>>: []
+
+EN: [The next time you take damage, you use your reaction to surround your attacker in hellish flames that deal [1].]
+PT: [Em reaτπo ap≤s ser danificado, vocΩ cerca seu agressor com chamas infernais que lidam [1].]
+>>: []
+
+EN: [Player disadvantage on attack.]
+PT: [O jogador estß em desvantagem ao atacar.]
+>>: []
+
+EN: [When you have a shield, impose disadvantage on an enemy who attacks one of your allies when you are within [1]. You must be able to see the enemy.]
+PT: [Quando vocΩ usa um escudo, vocΩ imp⌡e uma desvantagem a qualquer inimigo que ataca um de seus aliados se vocΩ estiver em [1] ou menos. VocΩ deve ser capaz de ver o inimigo.]
+>>: []
+
+EN: [There's been an attack!]
+PT: [Houve um ataque!]
+>>: []
+
+EN: [The spellcaster has advantage on attack rolls against this creature.]
+PT: [O lanτador de feitiτos tem uma vantagem em atacar rodadas contra esta criatura.]
+>>: []
+
+EN: [Until the spell ends, the spellcaster deals an extra [1] whenever they hit this creature with an attack. It also has disadvantage on ability checks using Charisma.]
+PT: [O lanτador negocia [1] cada vez que atinge esta criatura com um ataque atΘ o fim do feitiτo. TambΘm tem uma desvantagem em testes caracterφsticos baseados no carisma.]
+>>: []
+
+EN: [*This war map offers a detailed plan to attack the village of Moonhaven, encouraging soldiers to kill in merciless silence.*]
+PT: [Este mapa de guerra mostra um plano detalhado de ataque α vila de Guardaluna e encoraja os soldados a matar em silΩncio e impiedosamente.*]
+>>: []
+
+EN: [Player advantage on attack.]
+PT: [O jogador tem vantagem no ataque.]
+>>: []
+
+EN: [The druids - they're attacking!]
+PT: [Os Druidas... estπo atacando!]
+>>: []
+
+EN: [The mirror image distracts attackers, increasing the spellcaster's Armour Class by 3. When an image successfully absorbs an attack, it is removed.]
+PT: [A imagem m·ltipla distrai qualquer invasor e, assim, aumenta o CA do lanτador em 3. Quando uma imagem absorve um ataque, ela desaparece.]
+>>: []
+
+EN: [Bless up to 4 creatures. They receive a d4 bonus to attack rolls and saving throws.]
+PT: [Abenτoe atΘ 4 criaturas. Receba um b⌠nus de 1d4 para atacar corridas e salvar rodadas.]
+>>: []
+
+EN: [I'm not with the gith who attacked the ship. You know that already.]
+PT: [Nπo sou um dos giths que atacou a nave. VocΩ sabe tudo sobre isso.]
+>>: []
+
+EN: [Creature takes [1] every turn and gains disadvantage on all attack rolls and ability checks.]
+PT: [A criatura recebe [1] em cada curva e tem uma desvantagem em todas as corridas de ataque e testes de caracterφsticas.]
+>>: []
+
+EN: [<i>Seize her mind, urging her to attack the cave-in.</i>]
+PT: [<i>Toym controle de sua mente e ordene-lhe para atacar o colapso, </i>]
+>>: []
+
+EN: [The spellcaster has advantage on attack rolls against this creature.]
+PT: [O lanτador de feitiτos tem uma vantagem em atacar rodadas contra esta criatura.]
+>>: []
+
+EN: [If you change your mind, I hope you'll find me again. Until then, I've business amongst the brutes who attacked your home.]
+PT: [Se mudar de ideia, espero que venha me ver. AtΘ lß, tenho suposiτ⌡es para lidar com as bestas que atacaram sua casa.]
+>>: []
+
+EN: [Might still be stuck inside if we hadn't been attacked.]
+PT: [Se eu nπo tivesse tido uma convulsπo, talvez eu ainda estivesse preso lß.]
+>>: []
+
+EN: [Whenever you successfully evade an attack, one of the illusions disappears. Domain spell - always prepared.]
+PT: [Cada vez que vocΩ se esquivar de um ataque, uma das rΘplicas desaparecerß. Feitiτo de domφnio: sempre pronto.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with slings.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque de estilingue.]
+>>: []
+
+EN: [After a failed attack on the tieflings, the druids are dead. We should see if the refugees are all right.]
+PT: [Depois de um ataque fracassado nos tieflings, os druidas estπo mortos. Devemos verificar se os refugiados estπo bem.]
+>>: []
+
+EN: [<i>Seize the chance to attack.</i>]
+PT: [<i>Se a oportunidade de atacar</i>]
+>>: []
+
+EN: [Why did my kin attack your ship?]
+PT: [Por que meu povo atacou sua nave?]
+>>: []
+
+EN: [<i>Carry out your attack.</i>]
+PT: [<i>.</i>]
+>>: []
+
+EN: [Incapacitated. Cannot make attacks or take reactions.]
+PT: [Desativado. Ele nπo pode atacar ou reagir.]
+>>: []
+
+EN: [The zombie regards everyone around him with murderous intent, ready to attack any moment.]
+PT: [O zumbi olha para aqueles ao seu redor com intenτ⌡es assassinas, prontos para atacar a qualquer momento.]
+>>: []
+
+EN: [Mark a creature as your quarry to deal an additional [1] whenever you hit it with a weapon attack. ]
+PT: [Marque uma criatura como sua presa para infligir um adicional cada vez que vocΩ acertar um ataque com sua arma.]
+>>: []
+
+EN: [What were you doing before the owlbear attacked?]
+PT: [O que estava fazendo quando o urso coruja te atacou?]
+>>: []
+
+EN: [When this creature attacks its quarry, it deals an additional 1d6 damage.]
+PT: [Quando esta criatura ataca sua presa, ela causarß 1d6 danos adicionais.]
+>>: []
+
+EN: [Additional 1d4 to saving throws and normal attacks, and an additional 2d4 to spells using attack rolls.]
+PT: [Adicional de 1d4 para corridas de salvaτπo e ataques normais e um adicional de 2d4 para feitiτos usando corridas de ataque.]
+>>: []
+
+EN: [A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight, and the creature is forced to run from the source of its fear.]
+PT: [Uma criatura assustada tem uma desvantagem em giros caracterφsticos e corridas de ataque enquanto a origem de seu medo estß em seu campo de visπo. A criatura nπo pode se aproximar voluntariamente da origem de seu medo.]
+>>: []
+
+EN: [Armour Class (AC): enemy melee and ranged attack rolls must equal or exceed your Armour Class, or they won't land. ]
+PT: [Classe de armadura (CA): As corridas de ataque de alcance ou corpo a corpo do inimigo devem superar sua classe de armadura por danos.]
+>>: []
+
+EN: [<i>Prepare to attack.</i>]
+PT: [<i>prepara para atacar, </i>]
+>>: []
+
+EN: [When you are attacked with a melee attack, you use your reaction to increase your Armour Class, potentially causing the attack to miss.]
+PT: [Quando vocΩ recebe um ataque corpo a corpo, vocΩ usa sua reaτπo para aumentar sua classe de armadura, o que pode fazer com que o ataque falhe.]
+>>: []
+
+EN: [Wait. You... you're one of that lot who were attacking the ship.]
+PT: [Esperar. VocΩ... VocΩ fazia parte das pessoas que atacaram a nave.]
+>>: []
+
+EN: [Evocation spells focus elemental energy into powerful attacks and enchantments. Those who specialise in this school are known as evokers.]
+PT: [Feitiτos de evocaτπo concentram energia elementar e a transformam em ataques e encantamentos poderosos. Aqueles que se especializam nesta escola sπo conhecidos como evocativos.]
+>>: []
+
+EN: [<i>Seize her mind once again, ordering her to attack the second cave-in.</i>]
+PT: [<i>Se o controle de sua mente mais uma vez e ordene-o a atacar o segundo deslizamento de terra, </i>]
+>>: []
+
+EN: [*I slowly flanked the owlbear, looking for an angle of attack.*]
+PT: [* Lentamente flanqueou a coruja para ver se eu poderia encontrar um Γngulo para atacar.*]
+>>: []
+
+EN: [Swing your weapon in a large arc to attack multiple enemies at once.]
+PT: [VocΩ executa um arco largo com sua arma para atacar vßrios inimigos ao mesmo tempo.]
+>>: []
+
+EN: [The druids - they're <i>attacking us!</i>]
+PT: [Os Druidas... estπo nos atacando!]
+>>: []
+
+EN: [Any moment now... come on you <i>zurgnak </i>cowards, attack!]
+PT: [De um momento para o outro... Vamos, <i>zurgnak</i> covardes, ataquem!]
+>>: []
+
+EN: [This attack will only strengthen their resolve.]
+PT: [Este ataque s≤ vai fazΩ-los ficar ainda mais difφceis.]
+>>: []
+
+EN: [Bless up to 4 creatures. They receive a d4 bonus to attack rolls and saving throws.]
+PT: [Abenτoe atΘ 4 criaturas. Receba um b⌠nus de 1d4 para atacar corridas e salvar rodadas.]
+>>: []
+
+EN: [If the attack hits, but the target saves successfully, they still take half the additional damage.]
+PT: [Se o ataque bater, mesmo que o alvo exceda a corrida de salvamento, ele tambΘm sofre metade do dano adicional.]
+>>: []
+
+EN: [I'm being attacked! Help!]
+PT: [Eles estπo me atacando! Ajuda!]
+>>: []
+
+EN: [The spell ends early if the creature attacks or casts a spell.]
+PT: [O efeito termina cedo se a criatura atacar ou lanτar um feitiτo.]
+>>: []
+
+EN: [What were you doing before the owlbear attacked?]
+PT: [O que estava fazendo quando o urso coruja te atacou?]
+>>: []
+
+EN: [The target is protected against aberrations, celestials, elementals, fey, fiends, and undead. These creatures have disadvantage on attack rolls against the target, and the target can't be Charmed, Frightened, or Possessed by them.]
+PT: [O alvo estß protegido contra aberraτ⌡es, criaturas celestiais, elementares, ferozes, infernais e mortas-vivas. As corridas de ataque sπo desfavorecidas contra o alvo, e eles nπo serπo capazes de tornß-lo enfeitiτado, assustado ou possuφdo.]
+>>: []
+
+EN: [The creature that was once Mayrina's husband went berserk and attacked us. We have no choice but to put him back in his grave.]
+PT: [A criatura que jß foi marido de Mayrina enlouqueceu e nos atacou. Nπo temos escolha a nπo ser mandar o homem para a outra ala.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with javelins.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque de dardos.]
+>>: []
+
+EN: [*The owlbear stares, but doesn't move to attack. The way out seems clear.*]
+PT: [*A coruja olha para vocΩ, mas nπo tenta atacar. VocΩ vΩ uma saφda fßcil.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with greatswords.]
+PT: [VocΩ adiciona seu b⌠nus de competiτπo αs corridas de ataque espinhosas.]
+>>: []
+
+EN: [Your speed increases. When you use the Dash action, difficult terrain doesn't slow you down. Moreover, if you move after making a melee attack, you don't provoke an opportunity attack from your target.]
+PT: [Sua velocidade estß aumentando. Quando vocΩ usa a aτπo Run, o terreno difφcil nπo te atrasa. AlΘm disso, se vocΩ se mover ap≤s um ataque corpo a corpo, vocΩ nπo causar o ataque de oportunidade do seu alvo.]
+>>: []
+
+EN: [When a melee attack scores a critical hit or kills a creature, you can make another melee attack as a bonus action. When attacking with Heavy Weapons you are proficient with, attack rolls take a -5 penalty, but their damage increases by 10.]
+PT: [Quando um ataque corpo a corpo causa um golpe crφtico ou mata uma criatura, vocΩ pode realizar outro ataque corpo a corpo como uma aτπo adicional. Ao atacar com armas pesadas com as quais vocΩ tem concorrΩncia, as corridas de ataque recebem uma penalidade de -5, mas seu dano Θ aumentado em 10.]
+>>: []
+
+EN: [Curse a creature to deal an additional [1] whenever you hit it with an attack. The creature also has disadvantage on ability checks for one ability of your choosing.]
+PT: [VocΩ amaldiτoa uma criatura para infligir um adicional [1] quando vocΩ a acerta com um ataque. A criatura tambΘm tem uma desvantagem no teste de recursos do recurso de sua escolha.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with sickles.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque focinho.]
+>>: []
+
+EN: [Gain +1 bonus to attack rolls and deal an extra d4 of the chosen type on hit. Bonuses increase when cast from spell slots of 5th level or higher.]
+PT: [VocΩ recebe um b⌠nus +1 para atacar corridas, negociando um adicional de 1d4 do tipo escolhido no impacto. Os b⌠nus aumentam ao usar espaτos ortodados nφvel 5 ou superior.]
+>>: []
+
+EN: [Summon an illusion to distract your enemies. You and your allies receive advantage on attack rolls against a creature if both the attacker and the illusion are within [1] of it.]
+PT: [Convoque uma ilusπo que distraia seus inimigos. VocΩ e seus aliados tΩm uma vantagem em atacar rodadas contra uma criatura, se tanto o atacante quanto a ilusπo estπo dentro [1] dela.]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with scimitars.]
+PT: [Adicione seu b⌠nus de competiτπo αs corridas de ataque cimitarra.]
+>>: []
+
+EN: [Charge forward, attacking all hostile creatures in the way. Deals [1] and potentially knocks characters Prone.]
+PT: [Carga]
+>>: []
+
+EN: [*I quickly moved to the side for a flanking attack.*]
+PT: [Eu andei de lado rapidamente e a ataquei no flanco.]
+>>: []
+
+EN: [Goblins have disadvantage on attack rolls against the wielder.]
+PT: [Goblins tΩm uma desvantagem em atacar corridas contra o portador.]
+>>: []
+
+EN: [Make it quick. More creatures could attack any moment.]
+PT: [Seja rßpido. Podemos ser atacados por mais criaturas a qualquer momento.]
+>>: []
+
+EN: [After a successful attack with this dagger, the wielder receives a d4 bonus to attack rolls and saving throws for 1 round.]
+PT: [Depois de realizar um certo ataque com esta adaga, o portador recebe um b⌠nus de 1d4 para suas corridas de ataque e corridas de salvamento durante um ataque.]
+>>: []
+
+EN: [Harpies appeared and attacked us.]
+PT: [Algumas harpias apareceram e fomos atacados.]
+>>: []
+
+EN: [A bonus to your spell attack rolls.]
+PT: [Um b⌠nus para soletrar corridas de ataque.]
+>>: []
+
+EN: [Has a 1d4 bonus to attack rolls and saving throws.]
+PT: [Ele tem um b⌠nus de 1d4 para ataques e corridas de salvamento.]
+>>: []
+
+EN: [<i>Tell her it'll be a short lesson, then attack.</i>]
+PT: [<i> diga a ela que vai ser uma breve liτπo e atacß-la, </i>]
+>>: []
+
+EN: [*Images overwhelm you: the <i>kith'raki</i> attacking the nautiloid; warring demons and devils; the twitching <i>ghaik</i> tadpole.*]
+PT: [*Uma sucessπo de imagens o sobrecarrega: o <i>kith'raki</i> atacando o nautil≤ide; dem⌠nios e dem⌠nios em guerra; girino <i>ghaik</i> se contorcendo...*]
+>>: []
+
+EN: [Add your proficiency bonus to attack rolls (your chance to hit a target) with heavy crossbows.]
+PT: [Adicione seu b⌠nus de competiτπo a corridas de ataque de besta pesada.]
+>>: []
+
+EN: [<i>Prepare to attack.</i>]
+PT: [<i>prepara para atacar, </i>]
+>>: []
+
+EN: [They attacked us - we had to defend ourselves. It's only after, when we saw the tadpole crawling out of his head, that Master Halsin realised how serious things were.]
+PT: [Eles nos atacaram e tivemos que nos defender. S≤ mais tarde, quando vimos o girino saindo de sua cabeτa, o Mestre Halsin percebeu a gravidade da situaτπo.]
+>>: []
+
+EN: [Defend the Grove from the goblin attack.]
+PT: [Defenda o bosque do ataque dos duendes.]
+>>: []
+
+EN: [We attacked Kagha, and the druids turned on all of the tieflings.]
+PT: [Atacamos Kagha, e os Druidas se voltaram contra todos os empates.]
+>>: []
+
+EN: [Receive -2 Armour Class and Dexterity saving throws. Can't take Reactions. Can't make more than one attack per turn. At the end of the turn, creature makes a Wisdom saving throw, removing this condition on success.]
+PT: [Receba -2 AC e Dexterity's Salvation Spins. VocΩ nπo pode usar reaτ⌡es. VocΩ nπo pode realizar mais de um ataque por turno. No final da curva, a criatura realiza um rolo de salvaτπo da Sabedoria que termina o estado se ele tiver sucesso.]
+>>: []
+
+EN: [You gain a +2 bonus to attack rolls you make with ranged weapons.]
+PT: [VocΩ recebe um b⌠nus de +2 para suas corridas de ataque de armas de alcance.]
+>>: []
+
+EN: [*The spider hisses and attacks.*<br><br>]
+PT: [*Assotos e ataques de aranha.*<br><br>]
+>>: []
+
+EN: [Gore (Multiattack)]
+PT: [Cornada (ataque m·ltiplo)]
+>>: []
+
+EN: [Were you here when the duergar attacked?<br>]
+PT: [VocΩ estava aqui o quanto os adormecidos atacaram?]
+>>: []
+
+EN: [What...? You... you're one of <i>them </i>- the ones who were attacking the ship.]
+PT: [Que...? VocΩ... VocΩ Θ um deles... daqueles que atacaram a nave.]
+>>: []
+
+EN: [Wearing Light Armour will not impose disadvantage on your attacks or prevent the casting of spells.]
+PT: [Usar armadura leve nπo causa nenhuma desvantagem em seus ataques ou impede que vocΩ jogue feitiτos.]
+>>: []
+
+EN: [An attack. Monsters... little ones, and taller ones.]
+PT: [Um ataque. Monstros... Alguns pequenos e outros maiores.]
+>>: []
+
+EN: [Advantage when attacking Bleeding targets.]
+PT: [Vantagem em atacar alvos que estπo sangrando atΘ a morte.]
+>>: []
+
+EN: [There have been several attacks by different monsters. The druids blame us 'outsiders' for drawing them here. Nobody's welcome anymore.]
+PT: [Houve vßrios ataques de monstros. Os druidas nos culpam, os forasteiros, por atraφ-los aqui. Nos tornamos convidados indesejados.]
+>>: []
+
+EN: [When a creature misses you with a melee attack, expend a superiority die to retaliate and deal [1].]
+PT: [Quando uma criatura falha em atacß-lo corpo a corpo, gasta um dado de supremacia para contra-atacar e infligir [1].]
+>>: []
+
+EN: [Whenever you successfully evade an attack, one of the illusions disappears.]
+PT: [Cada vez que vocΩ se esquivar de um ataque, uma das rΘplicas desaparecerß.]
+>>: []
+
+EN: [Your attack summons thorny vines, dealing [1] and possibly Ensnaring your target.]
+PT: [Seu ataque convoca videiras com espinhos que infligem [1] e podem prender o alvo.]
+>>: []
+
+EN: [Glut's harmonies are inspiring. Ability checks, attack rolls, and saving throws have a greater chance of succeeding.]
+PT: [A harmonia de Glut Θ inspiradora. Testes de recursos, corridas de ataque e corridas de salvamento tΩm maior chance de sucesso.]
+>>: []
+
+EN: [|You have disadvantage on attack rolls against Source|]
+PT: [Tem uma desvantagem em atacar a fonte da maldiτπo.]
+>>: []
+
+EN: [Leave me be. The attack could happen any moment. ]
+PT: [Deixa-me. Eles podem atacar a qualquer momento.]
+>>: []
+
+EN: [If a Large or bigger creature attacks you, you can use your reaction to make a melee attack.]
+PT: [Se uma criatura grande ou maior te atacar, vocΩ pode usar sua reaτπo para conseguir um ataque corpo a corpo.]
+>>: []
+
+EN: [Turn into a cloud of vapour.<br>Unlock the ability to fly for 10 feet. Gain resistance to Nonmagical damage and advantage on Strength, Dexterity, and Constitution saving throws.<br>While under its effect, character cannot manipulate objects, attack, or cast spells.<br><br><i>Consuming this potion feels more like swallowing vapour than liquid.</i>]
+PT: [VocΩ se torna uma nuvem de vapor. <br>atraque a habilidade de voar por 3 metros. Ganhe resistΩncia a danos nπo-mßgicos e vantagem na salvaτπo da Forτa, Habilidade e Constituiτπo. <br>to que o efeito dura, o personagem nπo pode manipular objetos, atacar ou lanτar feitiτos. <br><br><i>Consuming esta poτπo Θ mais como engolir um vapor do que um lφquido, </i>]
+>>: []
+
+EN: [Your primary resource for combat, which can be spent attacking, casting spells, and taking certain other actions.]
+PT: [╔ seu principal recurso para o combate e pode ser gasto para realizar ataques e feitiτos de elenco, entre outras aτ⌡es.]
+>>: []
+
+EN: [Advantage on attack]
+PT: [Vantagem em atacar]
+>>: []
+
+EN: [Create 3 illusory duplicates of yourself that distract attackers. Each duplicate increases your Armour Class by 3.<br><br>Whenever you successfully evade an attack, one of the illusions disappears.<br><br><i>The scroll is destroyed upon use. Wizards can also use it to learn this spell.</i>]
+PT: [Crie 3 duplicatas ilus≤rias de vocΩ que distraem os atacantes. Cada duplicata aumenta sua Classe de Armadura em 3. <br><br>em que vocΩ conseguir evitar um ataque, uma das rΘplicas desaparecerß, <br> <br><i>O pergaminho serß destruφdo ap≤s o uso. Mßgicos tambΘm podem usß-lo para aprender este feitiτo.</i>]
+>>: []
+
+EN: [A prone creature is knocked down and must spend half their movement to stand back up. Enemies have advantage when attacking a prone creature.]
+PT: [Uma criatura que foi derrubada deve gastar metade de seu movimento para se reerguer. Inimigos tΩm vantagem em atacß-la.]
+>>: []
+
+EN: [You add your proficiency bonus to attack rolls (your chance to hit a target) with battleaxes.]
+PT: [Adicione seu b⌠nus de competiτπo aos giros de ataque do machado de guerra.]
+>>: []
+
+EN: [*The goblin seems unsure whether to bow to you or attack.*]
+PT: [* Parecia que o duende hesitou entre atacar e curvar-se .*]
+>>: []
+
+... 0 replaces on this file.
