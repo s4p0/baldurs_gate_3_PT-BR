@@ -13,3 +13,5 @@ I've used [ExportTool](https://github.com/Norbyte/lslib) to export (and after to
 For now, I've changed the game to Spanish (but with my compressed files), but I'm pretty sure a new ```Portuguese``` folder would work just fine with the game.
 To work it properly, you have to change the locale in ```.lsx``` file.
 
+-------
+Se tiver dúvida, pode me perguntar no [@Twitter](https://twitter.com/s4p0)
